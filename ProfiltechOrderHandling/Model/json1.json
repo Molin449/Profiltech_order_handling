@@ -1,0 +1,3568 @@
+[
+  {
+    "id": 40621,
+    "parent_id": 0,
+    "status": "completed",
+    "currency": "DKK",
+    "version": "5.7.1",
+    "prices_include_tax": true,
+    "date_created": "2021-10-04T10:46:39",
+    "date_modified": "2021-10-04T11:12:01",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "0.00",
+    "shipping_tax": "0.00",
+    "cart_tax": "1965.12",
+    "total": "9825.62",
+    "total_tax": "1965.12",
+    "customer_id": 0,
+    "order_key": "wc_order_Nk2Jl2XegAICd",
+    "billing": {
+      "first_name": "Brian",
+      "last_name": "Jensen",
+      "company": "",
+      "address_1": "Taaftegaards V\u00e6nge 6",
+      "address_2": "",
+      "city": "Kirke Hyllinge, Lyndby",
+      "state": "",
+      "postcode": "4070",
+      "country": "DK",
+      "email": "brian@jensen.mail.dk",
+      "phone": "40704916"
+    },
+    "shipping": {
+      "first_name": "Brian",
+      "last_name": "Jensen",
+      "company": "",
+      "address_1": "Taaftegaards V\u00e6nge 6",
+      "address_2": "",
+      "city": "Kirke Hyllinge, Lyndby",
+      "state": "",
+      "postcode": "4070",
+      "country": "DK",
+      "phone": ""
+    },
+    "payment_method": "bambora",
+    "payment_method_title": "Bambora Online Checkout",
+    "transaction_id": "243014305070288896",
+    "customer_ip_address": "185.230.124.184",
+    "customer_user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/94.0.4606.61 Safari\/537.36",
+    "created_via": "checkout",
+    "customer_note": "",
+    "date_completed": "2021-10-04T11:12:01",
+    "date_paid": "2021-10-04T10:49:17",
+    "cart_hash": "c520ebdc353dfb56ae57e5a0c5a3999c",
+    "number": "40621",
+    "meta_data": [
+      {
+        "id": 1788049,
+        "key": "_billing_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1788050,
+        "key": "_billing_momsnummer",
+        "value": ""
+      },
+      {
+        "id": 1788051,
+        "key": "_shipping_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1788052,
+        "key": "_shipping_momsnummer",
+        "value": ""
+      },
+      {
+        "id": 1788053,
+        "key": "is_vat_exempt",
+        "value": "no"
+      },
+      {
+        "id": 1788054,
+        "key": "billing_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1788070,
+        "key": "_new_order_email_sent",
+        "value": "true"
+      },
+      {
+        "id": 1788072,
+        "key": "_pys_purchase_event_fired",
+        "value": "1"
+      },
+      {
+        "id": 1788073,
+        "key": "_ga_tracked",
+        "value": "1"
+      },
+      {
+        "id": 1788075,
+        "key": "_wcpdf_packing_slip_date",
+        "value": "1633337791"
+      },
+      {
+        "id": 1788076,
+        "key": "_wcpdf_packing_slip_date_formatted",
+        "value": "2021-10-04 10:56:31"
+      },
+      {
+        "id": 1788080,
+        "key": "_wcpdf_invoice_settings",
+        "value": {
+          "enabled": "1",
+          "attach_to_email_ids": { "customer_completed_order": "1" },
+          "display_shipping_address": "1",
+          "display_email": "1",
+          "display_phone": "1",
+          "display_date": "invoice_date",
+          "number_format": {
+            "prefix": "",
+            "suffix": "",
+            "padding": ""
+          },
+          "my_account_buttons": "available",
+          "paper_size": "a4",
+          "font_subsetting": false,
+          "header_logo": "15859",
+          "header_logo_height": "",
+          "shop_name": { "default": "" },
+          "shop_address": { "default": "" },
+          "footer": { "default": "<b>Profil Tech ApS<\/b> - Fabriksvej 30 - Assens - 9550 Mariager - Denmark - CVR-nr: 38226223\r\nTlf: 98575700 - Mail: Kontakt@profiltech.dk\r\nBank: Sparekassen Danmark - Kontonr.:9337 \/ 2076914640 - IBAN-nr.: DK5793372076914640 - SWIFT-kode: JUTBDK21" },
+          "extra_1": { "default": "" },
+          "extra_2": { "default": "" },
+          "extra_3": { "default": "" }
+        }
+      },
+      {
+        "id": 1788081,
+        "key": "_wcpdf_invoice_date",
+        "value": "1633338722"
+      },
+      {
+        "id": 1788082,
+        "key": "_wcpdf_invoice_date_formatted",
+        "value": "2021-10-04 11:12:02"
+      },
+      {
+        "id": 1788083,
+        "key": "_wcpdf_invoice_number",
+        "value": "5377"
+      },
+      {
+        "id": 1788084,
+        "key": "_wcpdf_invoice_number_data",
+        "value": {
+          "number": 5377,
+          "formatted_number": "5377",
+          "prefix": "",
+          "suffix": "",
+          "document_type": "invoice",
+          "order_id": 40621,
+          "padding": ""
+        }
+      }
+    ],
+    "line_items": [
+      {
+        "id": 41954,
+        "name": "TP 18 Skum-t\u00e6tnings klodser lille top",
+        "product_id": 448,
+        "variation_id": 0,
+        "quantity": 14,
+        "tax_class": "",
+        "subtotal": "273.28",
+        "subtotal_tax": "68.32",
+        "total": "273.28",
+        "total_tax": "68.32",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "68.32",
+            "subtotal": "68.32"
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401702,
+            "key": "_wdp_initial_item_subtotal",
+            "value": "273.28",
+            "display_key": "_wdp_initial_item_subtotal",
+            "display_value": "273.28"
+          },
+          {
+            "id": 401703,
+            "key": "_wdp_initial_item_subtotal_tax",
+            "value": "68.32",
+            "display_key": "_wdp_initial_item_subtotal_tax",
+            "display_value": "68.32"
+          },
+          {
+            "id": 401704,
+            "key": "_ni_cost_goods",
+            "value": "2.05",
+            "display_key": "_ni_cost_goods",
+            "display_value": "2.05"
+          },
+          {
+            "id": 401781,
+            "key": "_WCPA_order_meta_data",
+            "value": "",
+            "display_key": "_WCPA_order_meta_data",
+            "display_value": ""
+          }
+        ],
+        "sku": "11010003",
+        "price": 19.519999999999999573674358543939888477325439453125,
+        "parent_name": null
+      },
+      {
+        "id": 41955,
+        "name": "TP18 St\u00e5ltrapezplader i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1070mm)",
+        "product_id": 2641,
+        "variation_id": 2665,
+        "quantity": 4,
+        "tax_class": "",
+        "subtotal": "2173.25",
+        "subtotal_tax": "543.31",
+        "total": "2173.25",
+        "total_tax": "543.31",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "543.312",
+            "subtotal": "543.312"
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401714,
+            "key": "_wdp_initial_item_subtotal",
+            "value": "2173.248",
+            "display_key": "_wdp_initial_item_subtotal",
+            "display_value": "2173.248"
+          },
+          {
+            "id": 401715,
+            "key": "_wdp_initial_item_subtotal_tax",
+            "value": "543.312",
+            "display_key": "_wdp_initial_item_subtotal_tax",
+            "display_value": "543.312"
+          },
+          {
+            "id": 401716,
+            "key": "pa_vaelg-farve",
+            "value": "sort-9005",
+            "display_key": "farve",
+            "display_value": "Sort RAL: 9005"
+          },
+          {
+            "id": 401717,
+            "key": "med-eller-uden-dripstopdug",
+            "value": "Med dripstopdug + 30 kr. pr. m\u00b2",
+            "display_key": "Med eller uden dripstopdug?",
+            "display_value": "Med dripstopdug + 30 kr. pr. m\u00b2"
+          },
+          {
+            "id": 401718,
+            "key": "Indtast l\u00e6ngde: (cm)",
+            "value": "539",
+            "display_key": "Indtast l\u00e6ngde: (cm)",
+            "display_value": "539"
+          },
+          {
+            "id": 401719,
+            "key": "_measurement_data",
+            "value": {
+              "length": {
+                "value": "539",
+                "unit": "cm"
+              },
+              "_measurement_needed": 539,
+              "_measurement_needed_unit": "cm"
+            },
+            "display_key": "_measurement_data",
+            "display_value": {
+              "length": {
+                "value": "539",
+                "unit": "cm"
+              },
+              "_measurement_needed": 539,
+              "_measurement_needed_unit": "cm"
+            }
+          },
+          {
+            "id": 401720,
+            "key": "_ni_cost_goods",
+            "value": "0.6",
+            "display_key": "_ni_cost_goods",
+            "display_value": "0.6"
+          },
+          {
+            "id": 401782,
+            "key": "_WCPA_order_meta_data",
+            "value": "",
+            "display_key": "_WCPA_order_meta_data",
+            "display_value": ""
+          }
+        ],
+        "sku": "11060017",
+        "price": 543.3120000000000118234311230480670928955078125,
+        "parent_name": "TP18 St\u00e5ltrapezplader i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1070mm)"
+      },
+      {
+        "id": 41956,
+        "name": "TP18 St\u00e5ltrapezplader i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1070mm)",
+        "product_id": 2641,
+        "variation_id": 2665,
+        "quantity": 4,
+        "tax_class": "",
+        "subtotal": "2169.22",
+        "subtotal_tax": "542.30",
+        "total": "2169.22",
+        "total_tax": "542.30",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "542.304",
+            "subtotal": "542.304"
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401730,
+            "key": "_wdp_initial_item_subtotal",
+            "value": "2169.216",
+            "display_key": "_wdp_initial_item_subtotal",
+            "display_value": "2169.216"
+          },
+          {
+            "id": 401731,
+            "key": "_wdp_initial_item_subtotal_tax",
+            "value": "542.304",
+            "display_key": "_wdp_initial_item_subtotal_tax",
+            "display_value": "542.304"
+          },
+          {
+            "id": 401732,
+            "key": "pa_vaelg-farve",
+            "value": "sort-9005",
+            "display_key": "farve",
+            "display_value": "Sort RAL: 9005"
+          },
+          {
+            "id": 401733,
+            "key": "med-eller-uden-dripstopdug",
+            "value": "Med dripstopdug + 30 kr. pr. m\u00b2",
+            "display_key": "Med eller uden dripstopdug?",
+            "display_value": "Med dripstopdug + 30 kr. pr. m\u00b2"
+          },
+          {
+            "id": 401734,
+            "key": "Indtast l\u00e6ngde: (cm)",
+            "value": "538",
+            "display_key": "Indtast l\u00e6ngde: (cm)",
+            "display_value": "538"
+          },
+          {
+            "id": 401735,
+            "key": "_measurement_data",
+            "value": {
+              "length": {
+                "value": "538",
+                "unit": "cm"
+              },
+              "_measurement_needed": 538,
+              "_measurement_needed_unit": "cm"
+            },
+            "display_key": "_measurement_data",
+            "display_value": {
+              "length": {
+                "value": "538",
+                "unit": "cm"
+              },
+              "_measurement_needed": 538,
+              "_measurement_needed_unit": "cm"
+            }
+          },
+          {
+            "id": 401736,
+            "key": "_ni_cost_goods",
+            "value": "0.6",
+            "display_key": "_ni_cost_goods",
+            "display_value": "0.6"
+          },
+          {
+            "id": 401783,
+            "key": "_WCPA_order_meta_data",
+            "value": "",
+            "display_key": "_WCPA_order_meta_data",
+            "display_value": ""
+          }
+        ],
+        "sku": "11060017",
+        "price": 542.3039999999999736246536485850811004638671875,
+        "parent_name": "TP18 St\u00e5ltrapezplader i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1070mm)"
+      },
+      {
+        "id": 41957,
+        "name": "TP18 St\u00e5ltrapezplader i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1070mm)",
+        "product_id": 2641,
+        "variation_id": 2665,
+        "quantity": 3,
+        "tax_class": "",
+        "subtotal": "1623.89",
+        "subtotal_tax": "405.97",
+        "total": "1623.89",
+        "total_tax": "405.97",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "405.972",
+            "subtotal": "405.972"
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401746,
+            "key": "_wdp_initial_item_subtotal",
+            "value": "1623.888",
+            "display_key": "_wdp_initial_item_subtotal",
+            "display_value": "1623.888"
+          },
+          {
+            "id": 401747,
+            "key": "_wdp_initial_item_subtotal_tax",
+            "value": "405.972",
+            "display_key": "_wdp_initial_item_subtotal_tax",
+            "display_value": "405.972"
+          },
+          {
+            "id": 401748,
+            "key": "pa_vaelg-farve",
+            "value": "sort-9005",
+            "display_key": "farve",
+            "display_value": "Sort RAL: 9005"
+          },
+          {
+            "id": 401749,
+            "key": "med-eller-uden-dripstopdug",
+            "value": "Med dripstopdug + 30 kr. pr. m\u00b2",
+            "display_key": "Med eller uden dripstopdug?",
+            "display_value": "Med dripstopdug + 30 kr. pr. m\u00b2"
+          },
+          {
+            "id": 401750,
+            "key": "Indtast l\u00e6ngde: (cm)",
+            "value": "537",
+            "display_key": "Indtast l\u00e6ngde: (cm)",
+            "display_value": "537"
+          },
+          {
+            "id": 401751,
+            "key": "_measurement_data",
+            "value": {
+              "length": {
+                "value": "537",
+                "unit": "cm"
+              },
+              "_measurement_needed": 537,
+              "_measurement_needed_unit": "cm"
+            },
+            "display_key": "_measurement_data",
+            "display_value": {
+              "length": {
+                "value": "537",
+                "unit": "cm"
+              },
+              "_measurement_needed": 537,
+              "_measurement_needed_unit": "cm"
+            }
+          },
+          {
+            "id": 401752,
+            "key": "_ni_cost_goods",
+            "value": "0.6",
+            "display_key": "_ni_cost_goods",
+            "display_value": "0.6"
+          },
+          {
+            "id": 401784,
+            "key": "_WCPA_order_meta_data",
+            "value": "",
+            "display_key": "_WCPA_order_meta_data",
+            "display_value": ""
+          }
+        ],
+        "sku": "11060017",
+        "price": 541.2959999999999354258761741220951080322265625,
+        "parent_name": "TP18 St\u00e5ltrapezplader i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1070mm)"
+      },
+      {
+        "id": 41958,
+        "name": "TP18 St\u00e5ltrapezplader i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1070mm)",
+        "product_id": 2641,
+        "variation_id": 2665,
+        "quantity": 3,
+        "tax_class": "",
+        "subtotal": "1620.86",
+        "subtotal_tax": "405.22",
+        "total": "1620.86",
+        "total_tax": "405.22",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "405.216",
+            "subtotal": "405.216"
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401762,
+            "key": "_wdp_initial_item_subtotal",
+            "value": "1620.864",
+            "display_key": "_wdp_initial_item_subtotal",
+            "display_value": "1620.864"
+          },
+          {
+            "id": 401763,
+            "key": "_wdp_initial_item_subtotal_tax",
+            "value": "405.216",
+            "display_key": "_wdp_initial_item_subtotal_tax",
+            "display_value": "405.216"
+          },
+          {
+            "id": 401764,
+            "key": "pa_vaelg-farve",
+            "value": "sort-9005",
+            "display_key": "farve",
+            "display_value": "Sort RAL: 9005"
+          },
+          {
+            "id": 401765,
+            "key": "med-eller-uden-dripstopdug",
+            "value": "Med dripstopdug + 30 kr. pr. m\u00b2",
+            "display_key": "Med eller uden dripstopdug?",
+            "display_value": "Med dripstopdug + 30 kr. pr. m\u00b2"
+          },
+          {
+            "id": 401766,
+            "key": "Indtast l\u00e6ngde: (cm)",
+            "value": "536",
+            "display_key": "Indtast l\u00e6ngde: (cm)",
+            "display_value": "536"
+          },
+          {
+            "id": 401767,
+            "key": "_measurement_data",
+            "value": {
+              "length": {
+                "value": "536",
+                "unit": "cm"
+              },
+              "_measurement_needed": 536,
+              "_measurement_needed_unit": "cm"
+            },
+            "display_key": "_measurement_data",
+            "display_value": {
+              "length": {
+                "value": "536",
+                "unit": "cm"
+              },
+              "_measurement_needed": 536,
+              "_measurement_needed_unit": "cm"
+            }
+          },
+          {
+            "id": 401768,
+            "key": "_ni_cost_goods",
+            "value": "0.6",
+            "display_key": "_ni_cost_goods",
+            "display_value": "0.6"
+          },
+          {
+            "id": 401785,
+            "key": "_WCPA_order_meta_data",
+            "value": "",
+            "display_key": "_WCPA_order_meta_data",
+            "display_value": ""
+          }
+        ],
+        "sku": "11060017",
+        "price": 540.28800000000001091393642127513885498046875,
+        "parent_name": "TP18 St\u00e5ltrapezplader i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1070mm)"
+      }
+    ],
+    "tax_lines": [
+      {
+        "id": 41960,
+        "rate_code": "DK-STANDART MOMS-1",
+        "rate_id": 1,
+        "label": "Standart moms",
+        "compound": true,
+        "tax_total": "1965.12",
+        "shipping_tax_total": "0.00",
+        "rate_percent": 25,
+        "meta_data": []
+      }
+    ],
+    "shipping_lines": [
+      {
+        "id": 41959,
+        "method_title": "Fri levering",
+        "method_id": "table_rate",
+        "instance_id": "11",
+        "total": "0.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          {
+            "id": 401774,
+            "key": "Varer",
+            "value": "TP 18 Skum-t\u00e6tnings klodser lille top &times; 14, TP18 St\u00e5ltrapezplader i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1070mm) &times; 4, TP18 St\u00e5ltrapezplader i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1070mm) &times; 4, TP18 St\u00e5ltrapezplader i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1070mm) &times; 3, TP18 St\u00e5ltrapezplader i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1070mm) &times; 3",
+            "display_key": "Varer",
+            "display_value": "TP 18 Skum-t\u00e6tnings klodser lille top &times; 14, TP18 St\u00e5ltrapezplader i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1070mm) &times; 4, TP18 St\u00e5ltrapezplader i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1070mm) &times; 4, TP18 St\u00e5ltrapezplader i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1070mm) &times; 3, TP18 St\u00e5ltrapezplader i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1070mm) &times; 3"
+          }
+        ]
+      }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "date_created_gmt": "2021-10-04T08:46:39",
+    "date_modified_gmt": "2021-10-04T09:12:01",
+    "date_completed_gmt": "2021-10-04T09:12:01",
+    "date_paid_gmt": "2021-10-04T08:49:17",
+    "currency_symbol": "",
+    "_links": {
+      "self": [ { "href": "https:\/\/www.profiltech.dk\/wp-json\/wc\/v3\/orders\/40621" } ],
+      "collection": [ { "href": "https:\/\/www.profiltech.dk\/wp-json\/wc\/v3\/orders" } ]
+    }
+  },
+  {
+    "id": 40619,
+    "parent_id": 0,
+    "status": "completed",
+    "currency": "DKK",
+    "version": "5.7.1",
+    "prices_include_tax": true,
+    "date_created": "2021-10-03T22:04:37",
+    "date_modified": "2021-10-04T10:27:58",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "318.40",
+    "shipping_tax": "79.60",
+    "cart_tax": "258.80",
+    "total": "1692.00",
+    "total_tax": "338.40",
+    "customer_id": 0,
+    "order_key": "wc_order_RmYkrytQQN0V7",
+    "billing": {
+      "first_name": "Jens",
+      "last_name": "Pico",
+      "company": "",
+      "address_1": "S\u00f8nder\u00e5s 43",
+      "address_2": "",
+      "city": "Slagelse",
+      "state": "",
+      "postcode": "4200",
+      "country": "DK",
+      "email": "jenspico@gmail.com",
+      "phone": "+4520351876"
+    },
+    "shipping": {
+      "first_name": "Jens",
+      "last_name": "Pico",
+      "company": "",
+      "address_1": "S\u00f8nder\u00e5s 43",
+      "address_2": "",
+      "city": "Slagelse",
+      "state": "",
+      "postcode": "4200",
+      "country": "DK",
+      "phone": ""
+    },
+    "payment_method": "bambora",
+    "payment_method_title": "Bambora Online Checkout",
+    "transaction_id": "242966280880267264",
+    "customer_ip_address": "2.111.148.215",
+    "customer_user_agent": "Mozilla\/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/14.1.2 Mobile\/15E148 Safari\/604.1",
+    "created_via": "checkout",
+    "customer_note": "",
+    "date_completed": "2021-10-04T10:27:58",
+    "date_paid": "2021-10-03T22:05:03",
+    "cart_hash": "5f04b1f46e546f4ce0c7ac08581b9403",
+    "number": "40619",
+    "meta_data": [
+      {
+        "id": 1787787,
+        "key": "_billing_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1787788,
+        "key": "_billing_momsnummer",
+        "value": ""
+      },
+      {
+        "id": 1787789,
+        "key": "_shipping_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1787790,
+        "key": "_shipping_momsnummer",
+        "value": ""
+      },
+      {
+        "id": 1787791,
+        "key": "is_vat_exempt",
+        "value": "no"
+      },
+      {
+        "id": 1787792,
+        "key": "billing_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1787800,
+        "key": "_new_order_email_sent",
+        "value": "true"
+      },
+      {
+        "id": 1787802,
+        "key": "_pys_purchase_event_fired",
+        "value": "1"
+      },
+      {
+        "id": 1787803,
+        "key": "_ga_tracked",
+        "value": "1"
+      },
+      {
+        "id": 1787809,
+        "key": "_wcpdf_packing_slip_date",
+        "value": "1633325534"
+      },
+      {
+        "id": 1787810,
+        "key": "_wcpdf_packing_slip_date_formatted",
+        "value": "2021-10-04 07:32:14"
+      },
+      {
+        "id": 1787938,
+        "key": "_wcpdf_invoice_settings",
+        "value": {
+          "enabled": "1",
+          "attach_to_email_ids": { "customer_completed_order": "1" },
+          "display_shipping_address": "1",
+          "display_email": "1",
+          "display_phone": "1",
+          "display_date": "invoice_date",
+          "number_format": {
+            "prefix": "",
+            "suffix": "",
+            "padding": ""
+          },
+          "my_account_buttons": "available",
+          "paper_size": "a4",
+          "font_subsetting": false,
+          "header_logo": "15859",
+          "header_logo_height": "",
+          "shop_name": { "default": "" },
+          "shop_address": { "default": "" },
+          "footer": { "default": "<b>Profil Tech ApS<\/b> - Fabriksvej 30 - Assens - 9550 Mariager - Denmark - CVR-nr: 38226223\r\nTlf: 98575700 - Mail: Kontakt@profiltech.dk\r\nBank: Sparekassen Danmark - Kontonr.:9337 \/ 2076914640 - IBAN-nr.: DK5793372076914640 - SWIFT-kode: JUTBDK21" },
+          "extra_1": { "default": "" },
+          "extra_2": { "default": "" },
+          "extra_3": { "default": "" }
+        }
+      },
+      {
+        "id": 1787939,
+        "key": "_wcpdf_invoice_date",
+        "value": "1633336079"
+      },
+      {
+        "id": 1787940,
+        "key": "_wcpdf_invoice_date_formatted",
+        "value": "2021-10-04 10:27:59"
+      },
+      {
+        "id": 1787941,
+        "key": "_wcpdf_invoice_number",
+        "value": "5366"
+      },
+      {
+        "id": 1787942,
+        "key": "_wcpdf_invoice_number_data",
+        "value": {
+          "number": 5366,
+          "formatted_number": "5366",
+          "prefix": "",
+          "suffix": "",
+          "document_type": "invoice",
+          "order_id": 40619,
+          "padding": ""
+        }
+      }
+    ],
+    "line_items": [
+      {
+        "id": 41951,
+        "name": "Vindskede",
+        "product_id": 447,
+        "variation_id": 1196,
+        "quantity": 8,
+        "tax_class": "",
+        "subtotal": "1035.20",
+        "subtotal_tax": "258.80",
+        "total": "1035.20",
+        "total_tax": "258.80",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "258.8",
+            "subtotal": "258.8"
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401675,
+            "key": "_wdp_initial_item_subtotal",
+            "value": "1035.2",
+            "display_key": "_wdp_initial_item_subtotal",
+            "display_value": "1035.2"
+          },
+          {
+            "id": 401676,
+            "key": "_wdp_initial_item_subtotal_tax",
+            "value": "258.8",
+            "display_key": "_wdp_initial_item_subtotal_tax",
+            "display_value": "258.8"
+          },
+          {
+            "id": 401677,
+            "key": "pa_vaelg-farve",
+            "value": "antracit-gra-ral-7024",
+            "display_key": "farve",
+            "display_value": "Antracit gr\u00e5 RAL: 7024"
+          },
+          {
+            "id": 401678,
+            "key": "stoerrelse",
+            "value": "A=20mm\u00a0 B=125mm\u00a0 C=90mm D=20mm",
+            "display_key": "St\u00f8rrelse",
+            "display_value": "A=20mm\u00a0 B=125mm\u00a0 C=90mm D=20mm"
+          },
+          {
+            "id": 401679,
+            "key": "_ni_cost_goods",
+            "value": "36",
+            "display_key": "_ni_cost_goods",
+            "display_value": "36"
+          },
+          {
+            "id": 401692,
+            "key": "_WCPA_order_meta_data",
+            "value": "",
+            "display_key": "_WCPA_order_meta_data",
+            "display_value": ""
+          }
+        ],
+        "sku": "11020041",
+        "price": 129.400000000000005684341886080801486968994140625,
+        "parent_name": "Vindskede"
+      }
+    ],
+    "tax_lines": [
+      {
+        "id": 41953,
+        "rate_code": "DK-STANDART MOMS-1",
+        "rate_id": 1,
+        "label": "Standart moms",
+        "compound": true,
+        "tax_total": "258.80",
+        "shipping_tax_total": "79.60",
+        "rate_percent": 25,
+        "meta_data": []
+      }
+    ],
+    "shipping_lines": [
+      {
+        "id": 41952,
+        "method_title": "Danske fragtm\u00e6nd - Omdeling privat",
+        "method_id": "table_rate",
+        "instance_id": "11",
+        "total": "318.40",
+        "total_tax": "79.60",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "79.6",
+            "subtotal": ""
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401685,
+            "key": "Varer",
+            "value": "Vindskede &times; 8",
+            "display_key": "Varer",
+            "display_value": "Vindskede &times; 8"
+          }
+        ]
+      }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "date_created_gmt": "2021-10-03T20:04:37",
+    "date_modified_gmt": "2021-10-04T08:27:58",
+    "date_completed_gmt": "2021-10-04T08:27:58",
+    "date_paid_gmt": "2021-10-03T20:05:03",
+    "currency_symbol": "",
+    "_links": {
+      "self": [ { "href": "https:\/\/www.profiltech.dk\/wp-json\/wc\/v3\/orders\/40619" } ],
+      "collection": [ { "href": "https:\/\/www.profiltech.dk\/wp-json\/wc\/v3\/orders" } ]
+    }
+  },
+  {
+    "id": 40618,
+    "parent_id": 0,
+    "status": "completed",
+    "currency": "DKK",
+    "version": "5.7.1",
+    "prices_include_tax": true,
+    "date_created": "2021-10-03T18:47:58",
+    "date_modified": "2021-10-04T10:40:05",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "318.40",
+    "shipping_tax": "79.60",
+    "cart_tax": "294.98",
+    "total": "1872.90",
+    "total_tax": "374.58",
+    "customer_id": 0,
+    "order_key": "wc_order_Tx0PIVES588m5",
+    "billing": {
+      "first_name": "Mats",
+      "last_name": "Tikj\u00f8b",
+      "company": "",
+      "address_1": "Matth\u00e6usgade 25, 1tv",
+      "address_2": "",
+      "city": "KBH V",
+      "state": "",
+      "postcode": "1666",
+      "country": "DK",
+      "email": "mats@cph-entreprise.dk",
+      "phone": "31173020"
+    },
+    "shipping": {
+      "first_name": "Mats",
+      "last_name": "Tikj\u00f8b",
+      "company": "",
+      "address_1": "Matth\u00e6usgade 25, 1tv",
+      "address_2": "",
+      "city": "KBH V",
+      "state": "",
+      "postcode": "1666",
+      "country": "DK",
+      "phone": ""
+    },
+    "payment_method": "bambora",
+    "payment_method_title": "Bambora Online Checkout",
+    "transaction_id": "242953933531936768",
+    "customer_ip_address": "89.23.224.157",
+    "customer_user_agent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/14.1.2 Safari\/605.1.15",
+    "created_via": "checkout",
+    "customer_note": "",
+    "date_completed": "2021-10-04T10:40:05",
+    "date_paid": "2021-10-03T18:49:40",
+    "cart_hash": "60f5a9fc04eb6b564082bf1d19f8f2c6",
+    "number": "40618",
+    "meta_data": [
+      {
+        "id": 1787736,
+        "key": "_billing_kundetype",
+        "value": "erhverv"
+      },
+      {
+        "id": 1787737,
+        "key": "_billing_momsnummer",
+        "value": ""
+      },
+      {
+        "id": 1787738,
+        "key": "_shipping_kundetype",
+        "value": "erhverv"
+      },
+      {
+        "id": 1787739,
+        "key": "_shipping_momsnummer",
+        "value": ""
+      },
+      {
+        "id": 1787740,
+        "key": "is_vat_exempt",
+        "value": "no"
+      },
+      {
+        "id": 1787741,
+        "key": "billing_kundetype",
+        "value": "erhverv"
+      },
+      {
+        "id": 1787749,
+        "key": "_new_order_email_sent",
+        "value": "true"
+      },
+      {
+        "id": 1787751,
+        "key": "_pys_purchase_event_fired",
+        "value": "1"
+      },
+      {
+        "id": 1787752,
+        "key": "_ga_tracked",
+        "value": "1"
+      },
+      {
+        "id": 1787807,
+        "key": "_wcpdf_packing_slip_date",
+        "value": "1633325534"
+      },
+      {
+        "id": 1787808,
+        "key": "_wcpdf_packing_slip_date_formatted",
+        "value": "2021-10-04 07:32:14"
+      },
+      {
+        "id": 1787970,
+        "key": "_wcpdf_invoice_settings",
+        "value": {
+          "enabled": "1",
+          "attach_to_email_ids": { "customer_completed_order": "1" },
+          "display_shipping_address": "1",
+          "display_email": "1",
+          "display_phone": "1",
+          "display_date": "invoice_date",
+          "number_format": {
+            "prefix": "",
+            "suffix": "",
+            "padding": ""
+          },
+          "my_account_buttons": "available",
+          "paper_size": "a4",
+          "font_subsetting": false,
+          "header_logo": "15859",
+          "header_logo_height": "",
+          "shop_name": { "default": "" },
+          "shop_address": { "default": "" },
+          "footer": { "default": "<b>Profil Tech ApS<\/b> - Fabriksvej 30 - Assens - 9550 Mariager - Denmark - CVR-nr: 38226223\r\nTlf: 98575700 - Mail: Kontakt@profiltech.dk\r\nBank: Sparekassen Danmark - Kontonr.:9337 \/ 2076914640 - IBAN-nr.: DK5793372076914640 - SWIFT-kode: JUTBDK21" },
+          "extra_1": { "default": "" },
+          "extra_2": { "default": "" },
+          "extra_3": { "default": "" }
+        }
+      },
+      {
+        "id": 1787971,
+        "key": "_wcpdf_invoice_date",
+        "value": "1633336811"
+      },
+      {
+        "id": 1787972,
+        "key": "_wcpdf_invoice_date_formatted",
+        "value": "2021-10-04 10:40:11"
+      },
+      {
+        "id": 1787973,
+        "key": "_wcpdf_invoice_number",
+        "value": "5370"
+      },
+      {
+        "id": 1787974,
+        "key": "_wcpdf_invoice_number_data",
+        "value": {
+          "number": 5370,
+          "formatted_number": "5370",
+          "prefix": "",
+          "suffix": "",
+          "document_type": "invoice",
+          "order_id": 40618,
+          "padding": ""
+        }
+      }
+    ],
+    "line_items": [
+      {
+        "id": 41946,
+        "name": "S\u00e5lb\u00e6nk",
+        "product_id": 502,
+        "variation_id": 2110,
+        "quantity": 2,
+        "tax_class": "",
+        "subtotal": "213.28",
+        "subtotal_tax": "53.32",
+        "total": "213.28",
+        "total_tax": "53.32",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "53.32",
+            "subtotal": "53.32"
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401620,
+            "key": "_wdp_initial_item_subtotal",
+            "value": "213.28",
+            "display_key": "_wdp_initial_item_subtotal",
+            "display_value": "213.28"
+          },
+          {
+            "id": 401621,
+            "key": "_wdp_initial_item_subtotal_tax",
+            "value": "53.32",
+            "display_key": "_wdp_initial_item_subtotal_tax",
+            "display_value": "53.32"
+          },
+          {
+            "id": 401622,
+            "key": "pa_vaelg-farve",
+            "value": "svensk-rod-ral-3013",
+            "display_key": "farve",
+            "display_value": "Svensk r\u00f8d RAL: 3013"
+          },
+          {
+            "id": 401623,
+            "key": "_ni_cost_goods",
+            "value": "12.5",
+            "display_key": "_ni_cost_goods",
+            "display_value": "12.5"
+          },
+          {
+            "id": 401663,
+            "key": "_WCPA_order_meta_data",
+            "value": "",
+            "display_key": "_WCPA_order_meta_data",
+            "display_value": ""
+          }
+        ],
+        "sku": "11020022",
+        "price": 106.6400000000000005684341886080801486968994140625,
+        "parent_name": "S\u00e5lb\u00e6nk"
+      },
+      {
+        "id": 41947,
+        "name": "S\u00e5lb\u00e6nk",
+        "product_id": 502,
+        "variation_id": 2110,
+        "quantity": 5,
+        "tax_class": "",
+        "subtotal": "533.20",
+        "subtotal_tax": "133.30",
+        "total": "533.20",
+        "total_tax": "133.30",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "133.3",
+            "subtotal": "133.3"
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401633,
+            "key": "_wdp_initial_item_subtotal",
+            "value": "533.2",
+            "display_key": "_wdp_initial_item_subtotal",
+            "display_value": "533.2"
+          },
+          {
+            "id": 401634,
+            "key": "_wdp_initial_item_subtotal_tax",
+            "value": "133.3",
+            "display_key": "_wdp_initial_item_subtotal_tax",
+            "display_value": "133.3"
+          },
+          {
+            "id": 401635,
+            "key": "pa_vaelg-farve",
+            "value": "hvid-ral-9010",
+            "display_key": "farve",
+            "display_value": "Hvid RAL: 9010"
+          },
+          {
+            "id": 401636,
+            "key": "_ni_cost_goods",
+            "value": "12.5",
+            "display_key": "_ni_cost_goods",
+            "display_value": "12.5"
+          },
+          {
+            "id": 401664,
+            "key": "_WCPA_order_meta_data",
+            "value": "",
+            "display_key": "_WCPA_order_meta_data",
+            "display_value": ""
+          }
+        ],
+        "sku": "11020022",
+        "price": 106.640000000000014779288903810083866119384765625,
+        "parent_name": "S\u00e5lb\u00e6nk"
+      },
+      {
+        "id": 41948,
+        "name": "Vandn\u00e6ser (sokkel & d\u00f8r\/vindue)",
+        "product_id": 4297,
+        "variation_id": 16579,
+        "quantity": 3,
+        "tax_class": "",
+        "subtotal": "433.44",
+        "subtotal_tax": "108.36",
+        "total": "433.44",
+        "total_tax": "108.36",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "108.36",
+            "subtotal": "108.36"
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401646,
+            "key": "_wdp_initial_item_subtotal",
+            "value": "433.44",
+            "display_key": "_wdp_initial_item_subtotal",
+            "display_value": "433.44"
+          },
+          {
+            "id": 401647,
+            "key": "_wdp_initial_item_subtotal_tax",
+            "value": "108.36",
+            "display_key": "_wdp_initial_item_subtotal_tax",
+            "display_value": "108.36"
+          },
+          {
+            "id": 401648,
+            "key": "pa_vaelg-farve",
+            "value": "hvid-ral-9010",
+            "display_key": "farve",
+            "display_value": "Hvid RAL: 9010"
+          },
+          {
+            "id": 401649,
+            "key": "stoerrelse",
+            "value": "A=145 B=40 C=15 D=10",
+            "display_key": "St\u00f8rrelse",
+            "display_value": "A=145 B=40 C=15 D=10"
+          },
+          {
+            "id": 401650,
+            "key": "_ni_cost_goods",
+            "value": "31.5",
+            "display_key": "_ni_cost_goods",
+            "display_value": "31.5"
+          },
+          {
+            "id": 401665,
+            "key": "_WCPA_order_meta_data",
+            "value": "",
+            "display_key": "_WCPA_order_meta_data",
+            "display_value": ""
+          }
+        ],
+        "sku": "111020034",
+        "price": 144.479999999999989768184605054557323455810546875,
+        "parent_name": "Vandn\u00e6ser (sokkel & d\u00f8r\/vindue)"
+      }
+    ],
+    "tax_lines": [
+      {
+        "id": 41950,
+        "rate_code": "DK-STANDART MOMS-1",
+        "rate_id": 1,
+        "label": "Standart moms",
+        "compound": true,
+        "tax_total": "294.98",
+        "shipping_tax_total": "79.60",
+        "rate_percent": 25,
+        "meta_data": []
+      }
+    ],
+    "shipping_lines": [
+      {
+        "id": 41949,
+        "method_title": "Danske fragtm\u00e6nd - Omdeling privat",
+        "method_id": "table_rate",
+        "instance_id": "11",
+        "total": "318.40",
+        "total_tax": "79.60",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "79.6",
+            "subtotal": ""
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401656,
+            "key": "Varer",
+            "value": "S\u00e5lb\u00e6nk &times; 2, S\u00e5lb\u00e6nk &times; 5, Vandn\u00e6ser (sokkel & d\u00f8r\/vindue) &times; 3",
+            "display_key": "Varer",
+            "display_value": "S\u00e5lb\u00e6nk &times; 2, S\u00e5lb\u00e6nk &times; 5, Vandn\u00e6ser (sokkel &amp; d\u00f8r\/vindue) &times; 3"
+          }
+        ]
+      }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "date_created_gmt": "2021-10-03T16:47:58",
+    "date_modified_gmt": "2021-10-04T08:40:05",
+    "date_completed_gmt": "2021-10-04T08:40:05",
+    "date_paid_gmt": "2021-10-03T16:49:40",
+    "currency_symbol": "",
+    "_links": {
+      "self": [ { "href": "https:\/\/www.profiltech.dk\/wp-json\/wc\/v3\/orders\/40618" } ],
+      "collection": [ { "href": "https:\/\/www.profiltech.dk\/wp-json\/wc\/v3\/orders" } ]
+    }
+  },
+  {
+    "id": 40616,
+    "parent_id": 0,
+    "status": "processing",
+    "currency": "DKK",
+    "version": "5.7.1",
+    "prices_include_tax": true,
+    "date_created": "2021-10-03T16:40:41",
+    "date_modified": "2021-10-04T08:57:29",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "318.40",
+    "shipping_tax": "79.60",
+    "cart_tax": "417.04",
+    "total": "2483.20",
+    "total_tax": "496.64",
+    "customer_id": 0,
+    "order_key": "wc_order_pCenkI5ShBiB3",
+    "billing": {
+      "first_name": "jenserik",
+      "last_name": "bager",
+      "company": "",
+      "address_1": "amtsvejen29",
+      "address_2": "",
+      "city": "spentrup",
+      "state": "",
+      "postcode": "8981",
+      "country": "DK",
+      "email": "jebager@live.dk",
+      "phone": "30829833"
+    },
+    "shipping": {
+      "first_name": "jenserik",
+      "last_name": "bager",
+      "company": "",
+      "address_1": "amtsvejen29",
+      "address_2": "",
+      "city": "spentrup",
+      "state": "",
+      "postcode": "8981",
+      "country": "DK",
+      "phone": ""
+    },
+    "payment_method": "bambora",
+    "payment_method_title": "Bambora Online Checkout",
+    "transaction_id": "242945950837876736",
+    "customer_ip_address": "188.114.132.78",
+    "customer_user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/93.0.4577.82 Safari\/537.36",
+    "created_via": "checkout",
+    "customer_note": "",
+    "date_completed": null,
+    "date_paid": "2021-10-03T16:42:44",
+    "cart_hash": "7bba96445ee00657cc4178a0eeb0d0c2",
+    "number": "40616",
+    "meta_data": [
+      {
+        "id": 1787622,
+        "key": "_billing_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1787623,
+        "key": "_billing_momsnummer",
+        "value": ""
+      },
+      {
+        "id": 1787624,
+        "key": "_shipping_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1787625,
+        "key": "_shipping_momsnummer",
+        "value": ""
+      },
+      {
+        "id": 1787626,
+        "key": "is_vat_exempt",
+        "value": "no"
+      },
+      {
+        "id": 1787627,
+        "key": "billing_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1787647,
+        "key": "_new_order_email_sent",
+        "value": "true"
+      },
+      {
+        "id": 1787649,
+        "key": "_pys_purchase_event_fired",
+        "value": "1"
+      },
+      {
+        "id": 1787650,
+        "key": "_ga_tracked",
+        "value": "1"
+      },
+      {
+        "id": 1787838,
+        "key": "_wcpdf_packing_slip_date",
+        "value": "1633330513"
+      },
+      {
+        "id": 1787839,
+        "key": "_wcpdf_packing_slip_date_formatted",
+        "value": "2021-10-04 08:55:13"
+      }
+    ],
+    "line_items": [
+      {
+        "id": 41939,
+        "name": "TP20 trapezplade sort 0,45\/0,50mm B 1,00 x L 3,00 meter",
+        "product_id": 35329,
+        "variation_id": 0,
+        "quantity": 10,
+        "tax_class": "",
+        "subtotal": "1512.00",
+        "subtotal_tax": "378.00",
+        "total": "1512.00",
+        "total_tax": "378.00",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "378",
+            "subtotal": "378"
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401555,
+            "key": "_wdp_initial_item_subtotal",
+            "value": "1512",
+            "display_key": "_wdp_initial_item_subtotal",
+            "display_value": "1512"
+          },
+          {
+            "id": 401556,
+            "key": "_wdp_initial_item_subtotal_tax",
+            "value": "378",
+            "display_key": "_wdp_initial_item_subtotal_tax",
+            "display_value": "378"
+          },
+          {
+            "id": 401557,
+            "key": "_ni_cost_goods",
+            "value": "75",
+            "display_key": "_ni_cost_goods",
+            "display_value": "75"
+          },
+          {
+            "id": 401582,
+            "key": "_WCPA_order_meta_data",
+            "value": "",
+            "display_key": "_WCPA_order_meta_data",
+            "display_value": ""
+          },
+          {
+            "id": 401584,
+            "key": "_reduced_stock",
+            "value": "10",
+            "display_key": "_reduced_stock",
+            "display_value": "10"
+          }
+        ],
+        "sku": "11090001-5-2",
+        "price": 151.19999999999998863131622783839702606201171875,
+        "parent_name": null
+      },
+      {
+        "id": 41940,
+        "name": "TP 20  Skum-t\u00e6tnings klodser",
+        "product_id": 518,
+        "variation_id": 0,
+        "quantity": 8,
+        "tax_class": "",
+        "subtotal": "156.16",
+        "subtotal_tax": "39.04",
+        "total": "156.16",
+        "total_tax": "39.04",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "39.04",
+            "subtotal": "39.04"
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401567,
+            "key": "_wdp_initial_item_subtotal",
+            "value": "156.16",
+            "display_key": "_wdp_initial_item_subtotal",
+            "display_value": "156.16"
+          },
+          {
+            "id": 401568,
+            "key": "_wdp_initial_item_subtotal_tax",
+            "value": "39.04",
+            "display_key": "_wdp_initial_item_subtotal_tax",
+            "display_value": "39.04"
+          },
+          {
+            "id": 401569,
+            "key": "_ni_cost_goods",
+            "value": "2.63",
+            "display_key": "_ni_cost_goods",
+            "display_value": "2.63"
+          },
+          {
+            "id": 401583,
+            "key": "_WCPA_order_meta_data",
+            "value": "",
+            "display_key": "_WCPA_order_meta_data",
+            "display_value": ""
+          }
+        ],
+        "sku": "11010005",
+        "price": 19.519999999999999573674358543939888477325439453125,
+        "parent_name": null
+      }
+    ],
+    "tax_lines": [
+      {
+        "id": 41942,
+        "rate_code": "DK-STANDART MOMS-1",
+        "rate_id": 1,
+        "label": "Standart moms",
+        "compound": true,
+        "tax_total": "417.04",
+        "shipping_tax_total": "79.60",
+        "rate_percent": 25,
+        "meta_data": []
+      }
+    ],
+    "shipping_lines": [
+      {
+        "id": 41941,
+        "method_title": "Afhentning - H\u00e5ndteringsgebyr ved k\u00f8b under 6800",
+        "method_id": "table_rate",
+        "instance_id": "14",
+        "total": "318.40",
+        "total_tax": "79.60",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "79.6",
+            "subtotal": ""
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401575,
+            "key": "Varer",
+            "value": "TP20 trapezplade sort 0,45\/0,50mm B 1,00 x L 3,00 meter &times; 10, TP 20 Skum-t\u00e6tnings klodser &times; 8",
+            "display_key": "Varer",
+            "display_value": "TP20 trapezplade sort 0,45\/0,50mm B 1,00 x L 3,00 meter &times; 10, TP 20 Skum-t\u00e6tnings klodser &times; 8"
+          }
+        ]
+      }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "date_created_gmt": "2021-10-03T14:40:41",
+    "date_modified_gmt": "2021-10-04T06:57:29",
+    "date_completed_gmt": null,
+    "date_paid_gmt": "2021-10-03T14:42:44",
+    "currency_symbol": "",
+    "_links": {
+      "self": [ { "href": "https:\/\/www.profiltech.dk\/wp-json\/wc\/v3\/orders\/40616" } ],
+      "collection": [ { "href": "https:\/\/www.profiltech.dk\/wp-json\/wc\/v3\/orders" } ]
+    }
+  },
+  {
+    "id": 40615,
+    "parent_id": 0,
+    "status": "completed",
+    "currency": "DKK",
+    "version": "5.7.1",
+    "prices_include_tax": true,
+    "date_created": "2021-10-03T16:40:15",
+    "date_modified": "2021-10-04T10:44:19",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "0.00",
+    "shipping_tax": "0.00",
+    "cart_tax": "2322.43",
+    "total": "11612.16",
+    "total_tax": "2322.43",
+    "customer_id": 0,
+    "order_key": "wc_order_go03zABGKcUbm",
+    "billing": {
+      "first_name": "Daniel",
+      "last_name": "Hansen",
+      "company": "",
+      "address_1": "Karlsh\u00f8jvej 1",
+      "address_2": "",
+      "city": "Hundested",
+      "state": "",
+      "postcode": "3390",
+      "country": "DK",
+      "email": "gamerhansen@yahoo.dk",
+      "phone": "42238018"
+    },
+    "shipping": {
+      "first_name": "Daniel",
+      "last_name": "Hansen",
+      "company": "",
+      "address_1": "Karlsh\u00f8jvej 1",
+      "address_2": "",
+      "city": "Hundested",
+      "state": "",
+      "postcode": "3390",
+      "country": "DK",
+      "phone": ""
+    },
+    "payment_method": "bambora",
+    "payment_method_title": "Bambora Online Checkout",
+    "transaction_id": "242945904039196672",
+    "customer_ip_address": "147.78.28.68",
+    "customer_user_agent": "Mozilla\/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/14.1.2 Mobile\/15E148 Safari\/604.1",
+    "created_via": "checkout",
+    "customer_note": "",
+    "date_completed": "2021-10-04T10:44:19",
+    "date_paid": "2021-10-03T16:41:44",
+    "cart_hash": "b5851225418ced85d056d74682132a30",
+    "number": "40615",
+    "meta_data": [
+      {
+        "id": 1787583,
+        "key": "_billing_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1787584,
+        "key": "_billing_momsnummer",
+        "value": ""
+      },
+      {
+        "id": 1787585,
+        "key": "_shipping_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1787586,
+        "key": "_shipping_momsnummer",
+        "value": ""
+      },
+      {
+        "id": 1787587,
+        "key": "is_vat_exempt",
+        "value": "no"
+      },
+      {
+        "id": 1787588,
+        "key": "billing_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1787635,
+        "key": "_new_order_email_sent",
+        "value": "true"
+      },
+      {
+        "id": 1787637,
+        "key": "_pys_purchase_event_fired",
+        "value": "1"
+      },
+      {
+        "id": 1787638,
+        "key": "_ga_tracked",
+        "value": "1"
+      },
+      {
+        "id": 1787828,
+        "key": "_wcpdf_packing_slip_date",
+        "value": "1633325760"
+      },
+      {
+        "id": 1787829,
+        "key": "_wcpdf_packing_slip_date_formatted",
+        "value": "2021-10-04 07:36:00"
+      },
+      {
+        "id": 1787994,
+        "key": "_wcpdf_invoice_settings",
+        "value": {
+          "enabled": "1",
+          "attach_to_email_ids": { "customer_completed_order": "1" },
+          "display_shipping_address": "1",
+          "display_email": "1",
+          "display_phone": "1",
+          "display_date": "invoice_date",
+          "number_format": {
+            "prefix": "",
+            "suffix": "",
+            "padding": ""
+          },
+          "my_account_buttons": "available",
+          "paper_size": "a4",
+          "font_subsetting": false,
+          "header_logo": "15859",
+          "header_logo_height": "",
+          "shop_name": { "default": "" },
+          "shop_address": { "default": "" },
+          "footer": { "default": "<b>Profil Tech ApS<\/b> - Fabriksvej 30 - Assens - 9550 Mariager - Denmark - CVR-nr: 38226223\r\nTlf: 98575700 - Mail: Kontakt@profiltech.dk\r\nBank: Sparekassen Danmark - Kontonr.:9337 \/ 2076914640 - IBAN-nr.: DK5793372076914640 - SWIFT-kode: JUTBDK21" },
+          "extra_1": { "default": "" },
+          "extra_2": { "default": "" },
+          "extra_3": { "default": "" }
+        }
+      },
+      {
+        "id": 1787995,
+        "key": "_wcpdf_invoice_date",
+        "value": "1633337060"
+      },
+      {
+        "id": 1787996,
+        "key": "_wcpdf_invoice_date_formatted",
+        "value": "2021-10-04 10:44:20"
+      },
+      {
+        "id": 1787997,
+        "key": "_wcpdf_invoice_number",
+        "value": "5373"
+      },
+      {
+        "id": 1787998,
+        "key": "_wcpdf_invoice_number_data",
+        "value": {
+          "number": 5373,
+          "formatted_number": "5373",
+          "prefix": "",
+          "suffix": "",
+          "document_type": "invoice",
+          "order_id": 40615,
+          "padding": ""
+        }
+      }
+    ],
+    "line_items": [
+      {
+        "id": 41936,
+        "name": "TP18 St\u00e5ltrapezplader i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1070mm)",
+        "product_id": 2641,
+        "variation_id": 2666,
+        "quantity": 18,
+        "tax_class": "",
+        "subtotal": "9289.73",
+        "subtotal_tax": "2322.43",
+        "total": "9289.73",
+        "total_tax": "2322.43",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "2322.432",
+            "subtotal": "2322.432"
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401526,
+            "key": "_wdp_initial_item_subtotal",
+            "value": "9289.728",
+            "display_key": "_wdp_initial_item_subtotal",
+            "display_value": "9289.728"
+          },
+          {
+            "id": 401527,
+            "key": "_wdp_initial_item_subtotal_tax",
+            "value": "2322.432",
+            "display_key": "_wdp_initial_item_subtotal_tax",
+            "display_value": "2322.432"
+          },
+          {
+            "id": 401528,
+            "key": "pa_vaelg-farve",
+            "value": "sort-9005",
+            "display_key": "farve",
+            "display_value": "Sort RAL: 9005"
+          },
+          {
+            "id": 401529,
+            "key": "med-eller-uden-dripstopdug",
+            "value": "uden dripstopdug",
+            "display_key": "Med eller uden dripstopdug?",
+            "display_value": "uden dripstopdug"
+          },
+          {
+            "id": 401530,
+            "key": "Indtast l\u00e6ngde: (cm)",
+            "value": "672",
+            "display_key": "Indtast l\u00e6ngde: (cm)",
+            "display_value": "672"
+          },
+          {
+            "id": 401531,
+            "key": "_measurement_data",
+            "value": {
+              "length": {
+                "value": "672",
+                "unit": "cm"
+              },
+              "_measurement_needed": 672,
+              "_measurement_needed_unit": "cm"
+            },
+            "display_key": "_measurement_data",
+            "display_value": {
+              "length": {
+                "value": "672",
+                "unit": "cm"
+              },
+              "_measurement_needed": 672,
+              "_measurement_needed_unit": "cm"
+            }
+          },
+          {
+            "id": 401532,
+            "key": "_ni_cost_goods",
+            "value": "0.42",
+            "display_key": "_ni_cost_goods",
+            "display_value": "0.42"
+          },
+          {
+            "id": 401545,
+            "key": "_WCPA_order_meta_data",
+            "value": "",
+            "display_key": "_WCPA_order_meta_data",
+            "display_value": ""
+          }
+        ],
+        "sku": "11060016",
+        "price": 516.09600000000000363797880709171295166015625,
+        "parent_name": "TP18 St\u00e5ltrapezplader i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1070mm)"
+      }
+    ],
+    "tax_lines": [
+      {
+        "id": 41938,
+        "rate_code": "DK-STANDART MOMS-1",
+        "rate_id": 1,
+        "label": "Standart moms",
+        "compound": true,
+        "tax_total": "2322.43",
+        "shipping_tax_total": "0.00",
+        "rate_percent": 25,
+        "meta_data": []
+      }
+    ],
+    "shipping_lines": [
+      {
+        "id": 41937,
+        "method_title": "Fri levering",
+        "method_id": "table_rate",
+        "instance_id": "11",
+        "total": "0.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          {
+            "id": 401538,
+            "key": "Varer",
+            "value": "TP18 St\u00e5ltrapezplader i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1070mm) &times; 18",
+            "display_key": "Varer",
+            "display_value": "TP18 St\u00e5ltrapezplader i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1070mm) &times; 18"
+          }
+        ]
+      }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "date_created_gmt": "2021-10-03T14:40:15",
+    "date_modified_gmt": "2021-10-04T08:44:19",
+    "date_completed_gmt": "2021-10-04T08:44:19",
+    "date_paid_gmt": "2021-10-03T14:41:44",
+    "currency_symbol": "",
+    "_links": {
+      "self": [ { "href": "https:\/\/www.profiltech.dk\/wp-json\/wc\/v3\/orders\/40615" } ],
+      "collection": [ { "href": "https:\/\/www.profiltech.dk\/wp-json\/wc\/v3\/orders" } ]
+    }
+  },
+  {
+    "id": 40614,
+    "parent_id": 0,
+    "status": "processing",
+    "currency": "DKK",
+    "version": "5.7.1",
+    "prices_include_tax": true,
+    "date_created": "2021-10-03T15:10:24",
+    "date_modified": "2021-10-04T08:57:28",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "1118.40",
+    "shipping_tax": "279.60",
+    "cart_tax": "1063.85",
+    "total": "6717.25",
+    "total_tax": "1343.45",
+    "customer_id": 0,
+    "order_key": "wc_order_KI9iQi1jQMwt9",
+    "billing": {
+      "first_name": "Carsten",
+      "last_name": "Rasmussen",
+      "company": "",
+      "address_1": "B\u00f8jdenlandevej 37",
+      "address_2": "",
+      "city": "F\u00e5borg",
+      "state": "",
+      "postcode": "5600",
+      "country": "DK",
+      "email": "syextra@hotmail.com",
+      "phone": "40867602"
+    },
+    "shipping": {
+      "first_name": "Carsten",
+      "last_name": "Rasmussen",
+      "company": "",
+      "address_1": "B\u00f8jdenlandevej 37",
+      "address_2": "",
+      "city": "F\u00e5borg",
+      "state": "",
+      "postcode": "5600",
+      "country": "DK",
+      "phone": ""
+    },
+    "payment_method": "bambora",
+    "payment_method_title": "Bambora Online Checkout",
+    "transaction_id": "242940265807980544",
+    "customer_ip_address": "5.186.120.182",
+    "customer_user_agent": "Mozilla\/5.0 (iPad; CPU OS 14_7_1 like Mac OS X) WebKit\/8611 (KHTML, like Gecko) Mobile\/18G82 [FBAN\/FBIOS;FBDV\/iPad7,11;FBMD\/iPad;FBSN\/iOS;FBSV\/14.7.1;FBSS\/2;FBID\/tablet;FBLC\/da_DK;FBOP\/5]",
+    "created_via": "checkout",
+    "customer_note": "",
+    "date_completed": null,
+    "date_paid": "2021-10-03T15:13:02",
+    "cart_hash": "c170c3f714d322926c6a95a68fe39318",
+    "number": "40614",
+    "meta_data": [
+      {
+        "id": 1787532,
+        "key": "_billing_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1787533,
+        "key": "_billing_momsnummer",
+        "value": ""
+      },
+      {
+        "id": 1787534,
+        "key": "_shipping_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1787535,
+        "key": "_shipping_momsnummer",
+        "value": ""
+      },
+      {
+        "id": 1787536,
+        "key": "is_vat_exempt",
+        "value": "no"
+      },
+      {
+        "id": 1787537,
+        "key": "billing_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1787545,
+        "key": "_new_order_email_sent",
+        "value": "true"
+      },
+      {
+        "id": 1787547,
+        "key": "_pys_purchase_event_fired",
+        "value": "1"
+      },
+      {
+        "id": 1787548,
+        "key": "_ga_tracked",
+        "value": "1"
+      },
+      {
+        "id": 1787826,
+        "key": "_wcpdf_packing_slip_date",
+        "value": "1633325760"
+      },
+      {
+        "id": 1787827,
+        "key": "_wcpdf_packing_slip_date_formatted",
+        "value": "2021-10-04 07:36:00"
+      }
+    ],
+    "line_items": [
+      {
+        "id": 41929,
+        "name": "Klassik Teglsten i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1100mm)",
+        "product_id": 3312,
+        "variation_id": 3313,
+        "quantity": 12,
+        "tax_class": "",
+        "subtotal": "2246.40",
+        "subtotal_tax": "561.60",
+        "total": "2246.40",
+        "total_tax": "561.60",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "561.6",
+            "subtotal": "561.6"
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401439,
+            "key": "_wdp_initial_item_subtotal",
+            "value": "2246.4",
+            "display_key": "_wdp_initial_item_subtotal",
+            "display_value": "2246.4"
+          },
+          {
+            "id": 401440,
+            "key": "_wdp_initial_item_subtotal_tax",
+            "value": "561.6",
+            "display_key": "_wdp_initial_item_subtotal_tax",
+            "display_value": "561.6"
+          },
+          {
+            "id": 401441,
+            "key": "pa_vaelg-farve",
+            "value": "sort-9005",
+            "display_key": "farve",
+            "display_value": "Sort RAL: 9005"
+          },
+          {
+            "id": 401442,
+            "key": "med-eller-uden-dripstop-antikondens-dug",
+            "value": "Uden dripstop dug",
+            "display_key": "Med eller uden dripstop antikondens dug?",
+            "display_value": "Uden dripstop dug"
+          },
+          {
+            "id": 401443,
+            "key": "Indtast l\u00e6ngde: (cm)",
+            "value": "200",
+            "display_key": "Indtast l\u00e6ngde: (cm)",
+            "display_value": "200"
+          },
+          {
+            "id": 401444,
+            "key": "_measurement_data",
+            "value": {
+              "length": {
+                "value": "200",
+                "unit": "cm"
+              },
+              "_measurement_needed": 200,
+              "_measurement_needed_unit": "cm"
+            },
+            "display_key": "_measurement_data",
+            "display_value": {
+              "length": {
+                "value": "200",
+                "unit": "cm"
+              },
+              "_measurement_needed": 200,
+              "_measurement_needed_unit": "cm"
+            }
+          },
+          {
+            "id": 401445,
+            "key": "_ni_cost_goods",
+            "value": "0.53",
+            "display_key": "_ni_cost_goods",
+            "display_value": "0.53"
+          },
+          {
+            "id": 401512,
+            "key": "_WCPA_order_meta_data",
+            "value": "",
+            "display_key": "_WCPA_order_meta_data",
+            "display_value": ""
+          }
+        ],
+        "sku": "11060002",
+        "price": 187.200000000000017053025658242404460906982421875,
+        "parent_name": "Klassik Teglsten i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1100mm)"
+      },
+      {
+        "id": 41930,
+        "name": "Rund tagrygning",
+        "product_id": 506,
+        "variation_id": 2109,
+        "quantity": 3,
+        "tax_class": "",
+        "subtotal": "636.48",
+        "subtotal_tax": "159.12",
+        "total": "636.48",
+        "total_tax": "159.12",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "159.12",
+            "subtotal": "159.12"
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401455,
+            "key": "_wdp_initial_item_subtotal",
+            "value": "636.48",
+            "display_key": "_wdp_initial_item_subtotal",
+            "display_value": "636.48"
+          },
+          {
+            "id": 401456,
+            "key": "_wdp_initial_item_subtotal_tax",
+            "value": "159.12",
+            "display_key": "_wdp_initial_item_subtotal_tax",
+            "display_value": "159.12"
+          },
+          {
+            "id": 401457,
+            "key": "pa_vaelg-farve",
+            "value": "sort-9005",
+            "display_key": "farve",
+            "display_value": "Sort RAL: 9005"
+          },
+          {
+            "id": 401458,
+            "key": "_ni_cost_goods",
+            "value": "63.33",
+            "display_key": "_ni_cost_goods",
+            "display_value": "63.33"
+          },
+          {
+            "id": 401513,
+            "key": "_WCPA_order_meta_data",
+            "value": "",
+            "display_key": "_WCPA_order_meta_data",
+            "display_value": ""
+          }
+        ],
+        "sku": "11020020",
+        "price": 212.159999999999996589394868351519107818603515625,
+        "parent_name": "Rund tagrygning"
+      },
+      {
+        "id": 41931,
+        "name": "Vindskede",
+        "product_id": 447,
+        "variation_id": 1197,
+        "quantity": 4,
+        "tax_class": "",
+        "subtotal": "476.00",
+        "subtotal_tax": "119.00",
+        "total": "476.00",
+        "total_tax": "119.00",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "119",
+            "subtotal": "119"
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401468,
+            "key": "_wdp_initial_item_subtotal",
+            "value": "476",
+            "display_key": "_wdp_initial_item_subtotal",
+            "display_value": "476"
+          },
+          {
+            "id": 401469,
+            "key": "_wdp_initial_item_subtotal_tax",
+            "value": "119",
+            "display_key": "_wdp_initial_item_subtotal_tax",
+            "display_value": "119"
+          },
+          {
+            "id": 401470,
+            "key": "pa_vaelg-farve",
+            "value": "sort-9005",
+            "display_key": "farve",
+            "display_value": "Sort RAL: 9005"
+          },
+          {
+            "id": 401471,
+            "key": "stoerrelse",
+            "value": "A=20mm\u00a0 B=125mm\u00a0 C=60mm D=20mm",
+            "display_key": "St\u00f8rrelse",
+            "display_value": "A=20mm\u00a0 B=125mm\u00a0 C=60mm D=20mm"
+          },
+          {
+            "id": 401472,
+            "key": "_ni_cost_goods",
+            "value": "28.75",
+            "display_key": "_ni_cost_goods",
+            "display_value": "28.75"
+          },
+          {
+            "id": 401514,
+            "key": "_WCPA_order_meta_data",
+            "value": "",
+            "display_key": "_WCPA_order_meta_data",
+            "display_value": ""
+          }
+        ],
+        "sku": "11020042",
+        "price": 119,
+        "parent_name": "Vindskede"
+      },
+      {
+        "id": 41932,
+        "name": "Fodblik",
+        "product_id": 488,
+        "variation_id": 3863,
+        "quantity": 5,
+        "tax_class": "",
+        "subtotal": "643.00",
+        "subtotal_tax": "160.75",
+        "total": "643.00",
+        "total_tax": "160.75",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "160.75",
+            "subtotal": "160.75"
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401482,
+            "key": "_wdp_initial_item_subtotal",
+            "value": "643",
+            "display_key": "_wdp_initial_item_subtotal",
+            "display_value": "643"
+          },
+          {
+            "id": 401483,
+            "key": "_wdp_initial_item_subtotal_tax",
+            "value": "160.75",
+            "display_key": "_wdp_initial_item_subtotal_tax",
+            "display_value": "160.75"
+          },
+          {
+            "id": 401484,
+            "key": "pa_vaelg-farve",
+            "value": "sort-9005",
+            "display_key": "farve",
+            "display_value": "Sort RAL: 9005"
+          },
+          {
+            "id": 401485,
+            "key": "stoerrelse",
+            "value": "A=40mm\u00a0 B=155mm\u00a0",
+            "display_key": "St\u00f8rrelse",
+            "display_value": "A=40mm\u00a0 B=155mm\u00a0"
+          },
+          {
+            "id": 401486,
+            "key": "_ni_cost_goods",
+            "value": "28.75",
+            "display_key": "_ni_cost_goods",
+            "display_value": "28.75"
+          },
+          {
+            "id": 401515,
+            "key": "_WCPA_order_meta_data",
+            "value": "",
+            "display_key": "_WCPA_order_meta_data",
+            "display_value": ""
+          }
+        ],
+        "sku": "11020010",
+        "price": 128.599999999999994315658113919198513031005859375,
+        "parent_name": "Fodblik"
+      },
+      {
+        "id": 41933,
+        "name": "endeluk til rund tagrygning",
+        "product_id": 507,
+        "variation_id": 2108,
+        "quantity": 2,
+        "tax_class": "",
+        "subtotal": "253.52",
+        "subtotal_tax": "63.38",
+        "total": "253.52",
+        "total_tax": "63.38",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "63.38",
+            "subtotal": "63.38"
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401496,
+            "key": "_wdp_initial_item_subtotal",
+            "value": "253.52",
+            "display_key": "_wdp_initial_item_subtotal",
+            "display_value": "253.52"
+          },
+          {
+            "id": 401497,
+            "key": "_wdp_initial_item_subtotal_tax",
+            "value": "63.38",
+            "display_key": "_wdp_initial_item_subtotal_tax",
+            "display_value": "63.38"
+          },
+          {
+            "id": 401498,
+            "key": "pa_vaelg-farve",
+            "value": "sort-9005",
+            "display_key": "farve",
+            "display_value": "Sort RAL: 9005"
+          },
+          {
+            "id": 401499,
+            "key": "_ni_cost_goods",
+            "value": "30.66",
+            "display_key": "_ni_cost_goods",
+            "display_value": "30.66"
+          },
+          {
+            "id": 401516,
+            "key": "_WCPA_order_meta_data",
+            "value": "",
+            "display_key": "_WCPA_order_meta_data",
+            "display_value": ""
+          }
+        ],
+        "sku": "11020005",
+        "price": 126.7600000000000051159076974727213382720947265625,
+        "parent_name": "endeluk til rund tagrygning"
+      }
+    ],
+    "tax_lines": [
+      {
+        "id": 41935,
+        "rate_code": "DK-STANDART MOMS-1",
+        "rate_id": 1,
+        "label": "Standart moms",
+        "compound": true,
+        "tax_total": "1063.85",
+        "shipping_tax_total": "279.60",
+        "rate_percent": 25,
+        "meta_data": []
+      }
+    ],
+    "shipping_lines": [
+      {
+        "id": 41934,
+        "method_title": "Levering & emballering ved k\u00f8b af under 6800",
+        "method_id": "table_rate",
+        "instance_id": "11",
+        "total": "1118.40",
+        "total_tax": "279.60",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "279.6",
+            "subtotal": ""
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401505,
+            "key": "Varer",
+            "value": "Klassik Teglsten i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1100mm) &times; 12, Rund tagrygning &times; 3, Vindskede &times; 4, Fodblik &times; 5, endeluk til rund tagrygning &times; 2",
+            "display_key": "Varer",
+            "display_value": "Klassik Teglsten i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1100mm) &times; 12, Rund tagrygning &times; 3, Vindskede &times; 4, Fodblik &times; 5, endeluk til rund tagrygning &times; 2"
+          }
+        ]
+      }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "date_created_gmt": "2021-10-03T13:10:24",
+    "date_modified_gmt": "2021-10-04T06:57:28",
+    "date_completed_gmt": null,
+    "date_paid_gmt": "2021-10-03T13:13:02",
+    "currency_symbol": "",
+    "_links": {
+      "self": [ { "href": "https:\/\/www.profiltech.dk\/wp-json\/wc\/v3\/orders\/40614" } ],
+      "collection": [ { "href": "https:\/\/www.profiltech.dk\/wp-json\/wc\/v3\/orders" } ]
+    }
+  },
+  {
+    "id": 40612,
+    "parent_id": 0,
+    "status": "processing",
+    "currency": "DKK",
+    "version": "5.7.1",
+    "prices_include_tax": true,
+    "date_created": "2021-10-03T13:34:24",
+    "date_modified": "2021-10-04T08:57:43",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "0.00",
+    "shipping_tax": "0.00",
+    "cart_tax": "1662.36",
+    "total": "8311.80",
+    "total_tax": "1662.36",
+    "customer_id": 0,
+    "order_key": "wc_order_SOzsXjsl03UHF",
+    "billing": {
+      "first_name": "Bruno",
+      "last_name": "Jensen",
+      "company": "",
+      "address_1": "Rousth\u00f8js alle 18",
+      "address_2": "",
+      "city": "Juelsminde",
+      "state": "",
+      "postcode": "7130",
+      "country": "DK",
+      "email": "brunojensen12@hotmail.com",
+      "phone": "21862595"
+    },
+    "shipping": {
+      "first_name": "Bruno",
+      "last_name": "Jensen",
+      "company": "",
+      "address_1": "Rousth\u00f8js alle 18",
+      "address_2": "",
+      "city": "Juelsminde",
+      "state": "",
+      "postcode": "7130",
+      "country": "DK",
+      "phone": ""
+    },
+    "payment_method": "bambora",
+    "payment_method_title": "Bambora Online Checkout",
+    "transaction_id": "242934240123004928",
+    "customer_ip_address": "2a02:aa7:4601:261:a051:e325:dfca:5911",
+    "customer_user_agent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/14.1.2 Safari\/605.1.15",
+    "created_via": "checkout",
+    "customer_note": "",
+    "date_completed": null,
+    "date_paid": "2021-10-03T13:38:47",
+    "cart_hash": "91b2a8183167abc21e66abc4e38101b0",
+    "number": "40612",
+    "meta_data": [
+      {
+        "id": 1787430,
+        "key": "_billing_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1787431,
+        "key": "_billing_momsnummer",
+        "value": ""
+      },
+      {
+        "id": 1787432,
+        "key": "_shipping_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1787433,
+        "key": "_shipping_momsnummer",
+        "value": ""
+      },
+      {
+        "id": 1787434,
+        "key": "is_vat_exempt",
+        "value": "no"
+      },
+      {
+        "id": 1787435,
+        "key": "billing_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1787443,
+        "key": "_new_order_email_sent",
+        "value": "true"
+      },
+      {
+        "id": 1787445,
+        "key": "_pys_purchase_event_fired",
+        "value": "1"
+      },
+      {
+        "id": 1787446,
+        "key": "_ga_tracked",
+        "value": "1"
+      },
+      {
+        "id": 1787824,
+        "key": "_wcpdf_packing_slip_date",
+        "value": "1633325760"
+      },
+      {
+        "id": 1787825,
+        "key": "_wcpdf_packing_slip_date_formatted",
+        "value": "2021-10-04 07:36:00"
+      }
+    ],
+    "line_items": [
+      {
+        "id": 41922,
+        "name": "L\u00e6gte  (38x57mm)  TR\u00c6TYPE:  Gran - - (C18 godkendt) - 4,20 meter",
+        "product_id": 5208,
+        "variation_id": 5209,
+        "quantity": 20,
+        "tax_class": "",
+        "subtotal": "752.64",
+        "subtotal_tax": "188.16",
+        "total": "752.64",
+        "total_tax": "188.16",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "188.16",
+            "subtotal": "188.16"
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401369,
+            "key": "_wdp_initial_item_subtotal",
+            "value": "752.64",
+            "display_key": "_wdp_initial_item_subtotal",
+            "display_value": "752.64"
+          },
+          {
+            "id": 401370,
+            "key": "_wdp_initial_item_subtotal_tax",
+            "value": "188.16",
+            "display_key": "_wdp_initial_item_subtotal_tax",
+            "display_value": "188.16"
+          },
+          {
+            "id": 401371,
+            "key": "laengde",
+            "value": "4,20 meter",
+            "display_key": "L\u00e6ngde:",
+            "display_value": "4,20 meter"
+          },
+          {
+            "id": 401372,
+            "key": "_ni_cost_goods",
+            "value": "23.9",
+            "display_key": "_ni_cost_goods",
+            "display_value": "23.9"
+          },
+          {
+            "id": 401403,
+            "key": "_WCPA_order_meta_data",
+            "value": "",
+            "display_key": "_WCPA_order_meta_data",
+            "display_value": ""
+          }
+        ],
+        "sku": "11030016",
+        "price": 37.63199999999999789679350215010344982147216796875,
+        "parent_name": "L\u00e6gte  (38x57mm)  TR\u00c6TYPE:  Gran - - (C18 godkendt)"
+      },
+      {
+        "id": 41923,
+        "name": "Klassik Variant i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1100mm)",
+        "product_id": 3319,
+        "variation_id": 3320,
+        "quantity": 12,
+        "tax_class": "",
+        "subtotal": "5896.80",
+        "subtotal_tax": "1474.20",
+        "total": "5896.80",
+        "total_tax": "1474.20",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "1474.2",
+            "subtotal": "1474.2"
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401382,
+            "key": "_wdp_initial_item_subtotal",
+            "value": "5896.8",
+            "display_key": "_wdp_initial_item_subtotal",
+            "display_value": "5896.8"
+          },
+          {
+            "id": 401383,
+            "key": "_wdp_initial_item_subtotal_tax",
+            "value": "1474.2",
+            "display_key": "_wdp_initial_item_subtotal_tax",
+            "display_value": "1474.2"
+          },
+          {
+            "id": 401384,
+            "key": "pa_vaelg-farve",
+            "value": "sort-9005",
+            "display_key": "farve",
+            "display_value": "Sort RAL: 9005"
+          },
+          {
+            "id": 401385,
+            "key": "med-eller-uden-dripstop-antikondens-dug",
+            "value": "Uden dripstop dug",
+            "display_key": "Med eller uden dripstop antikondens dug?",
+            "display_value": "Uden dripstop dug"
+          },
+          {
+            "id": 401386,
+            "key": "Indtast l\u00e6ngden p\u00e5 \"sten\" ( Eternit look 107 cm)",
+            "value": "100",
+            "display_key": "Indtast l\u00e6ngden p\u00e5 \"sten\" ( Eternit look 107 cm)",
+            "display_value": "100"
+          },
+          {
+            "id": 401387,
+            "key": "_WCPA_order_meta_data",
+            "value": [
+              {
+                "type": "number",
+                "name": "stone-length",
+                "label": "Indtast l\u00e6ngden p\u00e5 \"sten\" ( Eternit look 107 cm)",
+                "value": "100",
+                "price": false,
+                "form_data": {
+                  "type": "number",
+                  "elementId": "wcpa-number-1621409457709",
+                  "label": "Indtast l\u00e6ngden p\u00e5 \"sten\" ( Eternit look 107 cm)",
+                  "placeholder": "Indtast i cm",
+                  "name": "stone-length",
+                  "min": "40",
+                  "max": "107",
+                  "step": "1"
+                },
+                "meta_id": 401386
+              }
+            ],
+            "display_key": "_WCPA_order_meta_data",
+            "display_value": [
+              {
+                "type": "number",
+                "name": "stone-length",
+                "label": "Indtast l\u00e6ngden p\u00e5 \"sten\" ( Eternit look 107 cm)",
+                "value": "100",
+                "price": false,
+                "form_data": {
+                  "type": "number",
+                  "elementId": "wcpa-number-1621409457709",
+                  "label": "Indtast l\u00e6ngden p\u00e5 \"sten\" ( Eternit look 107 cm)",
+                  "placeholder": "Indtast i cm",
+                  "name": "stone-length",
+                  "min": "40",
+                  "max": "107",
+                  "step": "1"
+                },
+                "meta_id": 401386
+              }
+            ]
+          },
+          {
+            "id": 401388,
+            "key": "Indtast l\u00e6ngde: (cm)",
+            "value": "525",
+            "display_key": "Indtast l\u00e6ngde: (cm)",
+            "display_value": "525"
+          },
+          {
+            "id": 401389,
+            "key": "_measurement_data",
+            "value": {
+              "length": {
+                "value": "525",
+                "unit": "cm"
+              },
+              "_measurement_needed": 525,
+              "_measurement_needed_unit": "cm"
+            },
+            "display_key": "_measurement_data",
+            "display_value": {
+              "length": {
+                "value": "525",
+                "unit": "cm"
+              },
+              "_measurement_needed": 525,
+              "_measurement_needed_unit": "cm"
+            }
+          },
+          {
+            "id": 401390,
+            "key": "_ni_cost_goods",
+            "value": "0.53",
+            "display_key": "_ni_cost_goods",
+            "display_value": "0.53"
+          }
+        ],
+        "sku": "11060005",
+        "price": 491.40000000000003410605131648480892181396484375,
+        "parent_name": "Klassik Variant i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1100mm)"
+      }
+    ],
+    "tax_lines": [
+      {
+        "id": 41925,
+        "rate_code": "DK-STANDART MOMS-1",
+        "rate_id": 1,
+        "label": "Standart moms",
+        "compound": true,
+        "tax_total": "1662.36",
+        "shipping_tax_total": "0.00",
+        "rate_percent": 25,
+        "meta_data": []
+      }
+    ],
+    "shipping_lines": [
+      {
+        "id": 41924,
+        "method_title": "Fri levering",
+        "method_id": "table_rate",
+        "instance_id": "11",
+        "total": "0.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          {
+            "id": 401396,
+            "key": "Varer",
+            "value": "L\u00e6gte (38x57mm) TR\u00c6TYPE: Gran - - (C18 godkendt) - 4,20 meter &times; 20, Klassik Variant i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1100mm) &times; 12",
+            "display_key": "Varer",
+            "display_value": "L\u00e6gte (38x57mm) TR\u00c6TYPE: Gran - - (C18 godkendt) - 4,20 meter &times; 20, Klassik Variant i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1100mm) &times; 12"
+          }
+        ]
+      }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "date_created_gmt": "2021-10-03T11:34:24",
+    "date_modified_gmt": "2021-10-04T06:57:43",
+    "date_completed_gmt": null,
+    "date_paid_gmt": "2021-10-03T11:38:47",
+    "currency_symbol": "",
+    "_links": {
+      "self": [ { "href": "https:\/\/www.profiltech.dk\/wp-json\/wc\/v3\/orders\/40612" } ],
+      "collection": [ { "href": "https:\/\/www.profiltech.dk\/wp-json\/wc\/v3\/orders" } ]
+    }
+  },
+  {
+    "id": 40611,
+    "parent_id": 0,
+    "status": "processing",
+    "currency": "DKK",
+    "version": "5.7.1",
+    "prices_include_tax": true,
+    "date_created": "2021-10-03T11:44:53",
+    "date_modified": "2021-10-04T08:57:26",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "318.40",
+    "shipping_tax": "79.60",
+    "cart_tax": "793.80",
+    "total": "4367.00",
+    "total_tax": "873.40",
+    "customer_id": 0,
+    "order_key": "wc_order_rVGTAlkG37xab",
+    "billing": {
+      "first_name": "Niels",
+      "last_name": "Jakobsen",
+      "company": "",
+      "address_1": "Marienholtvej 2",
+      "address_2": "",
+      "city": "Ryomg\u00e5rd",
+      "state": "",
+      "postcode": "8550",
+      "country": "DK",
+      "email": "fam.jak@hotmail.com",
+      "phone": "50709706"
+    },
+    "shipping": {
+      "first_name": "Niels",
+      "last_name": "Jakobsen",
+      "company": "",
+      "address_1": "Marienholtvej 2",
+      "address_2": "",
+      "city": "Ryomg\u00e5rd",
+      "state": "",
+      "postcode": "8550",
+      "country": "DK",
+      "phone": ""
+    },
+    "payment_method": "bambora",
+    "payment_method_title": "Bambora Online Checkout",
+    "transaction_id": "242927412041459712",
+    "customer_ip_address": "80.62.117.186",
+    "customer_user_agent": "Mozilla\/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/14.1.2 Mobile\/15E148 Safari\/604.1",
+    "created_via": "checkout",
+    "customer_note": "Afhenter selv .",
+    "date_completed": null,
+    "date_paid": "2021-10-03T11:48:44",
+    "cart_hash": "3916e23f49a64e50848fa2145fe4a8c4",
+    "number": "40611",
+    "meta_data": [
+      {
+        "id": 1787379,
+        "key": "_billing_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1787380,
+        "key": "_billing_momsnummer",
+        "value": ""
+      },
+      {
+        "id": 1787381,
+        "key": "_shipping_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1787382,
+        "key": "_shipping_momsnummer",
+        "value": ""
+      },
+      {
+        "id": 1787383,
+        "key": "is_vat_exempt",
+        "value": "no"
+      },
+      {
+        "id": 1787384,
+        "key": "billing_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1787392,
+        "key": "_new_order_email_sent",
+        "value": "true"
+      },
+      {
+        "id": 1787394,
+        "key": "_pys_purchase_event_fired",
+        "value": "1"
+      },
+      {
+        "id": 1787395,
+        "key": "_ga_tracked",
+        "value": "1"
+      },
+      {
+        "id": 1787834,
+        "key": "_wcpdf_packing_slip_date",
+        "value": "1633330513"
+      },
+      {
+        "id": 1787835,
+        "key": "_wcpdf_packing_slip_date_formatted",
+        "value": "2021-10-04 08:55:13"
+      }
+    ],
+    "line_items": [
+      {
+        "id": 41919,
+        "name": "TP20 trapezplade lysegr\u00e5\/silver 0,50mm B 1,00 x L 3,00 meter",
+        "product_id": 25847,
+        "variation_id": 0,
+        "quantity": 21,
+        "tax_class": "",
+        "subtotal": "3175.20",
+        "subtotal_tax": "793.80",
+        "total": "3175.20",
+        "total_tax": "793.80",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "793.8",
+            "subtotal": "793.8"
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401343,
+            "key": "_wdp_initial_item_subtotal",
+            "value": "3175.2",
+            "display_key": "_wdp_initial_item_subtotal",
+            "display_value": "3175.2"
+          },
+          {
+            "id": 401344,
+            "key": "_wdp_initial_item_subtotal_tax",
+            "value": "793.8",
+            "display_key": "_wdp_initial_item_subtotal_tax",
+            "display_value": "793.8"
+          },
+          {
+            "id": 401345,
+            "key": "_ni_cost_goods",
+            "value": "75",
+            "display_key": "_ni_cost_goods",
+            "display_value": "75"
+          },
+          {
+            "id": 401358,
+            "key": "_WCPA_order_meta_data",
+            "value": "",
+            "display_key": "_WCPA_order_meta_data",
+            "display_value": ""
+          },
+          {
+            "id": 401359,
+            "key": "_reduced_stock",
+            "value": "21",
+            "display_key": "_reduced_stock",
+            "display_value": "21"
+          }
+        ],
+        "sku": "11090013",
+        "price": 151.19999999999998863131622783839702606201171875,
+        "parent_name": null
+      }
+    ],
+    "tax_lines": [
+      {
+        "id": 41921,
+        "rate_code": "DK-STANDART MOMS-1",
+        "rate_id": 1,
+        "label": "Standart moms",
+        "compound": true,
+        "tax_total": "793.80",
+        "shipping_tax_total": "79.60",
+        "rate_percent": 25,
+        "meta_data": []
+      }
+    ],
+    "shipping_lines": [
+      {
+        "id": 41920,
+        "method_title": "Afhentning - H\u00e5ndteringsgebyr ved k\u00f8b under 6800",
+        "method_id": "table_rate",
+        "instance_id": "14",
+        "total": "318.40",
+        "total_tax": "79.60",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "79.6",
+            "subtotal": ""
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401351,
+            "key": "Varer",
+            "value": "TP20 trapezplade lysegr\u00e5\/silver 0,50mm B 1,00 x L 3,00 meter &times; 21",
+            "display_key": "Varer",
+            "display_value": "TP20 trapezplade lysegr\u00e5\/silver 0,50mm B 1,00 x L 3,00 meter &times; 21"
+          }
+        ]
+      }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "date_created_gmt": "2021-10-03T09:44:53",
+    "date_modified_gmt": "2021-10-04T06:57:26",
+    "date_completed_gmt": null,
+    "date_paid_gmt": "2021-10-03T09:48:44",
+    "currency_symbol": "",
+    "_links": {
+      "self": [ { "href": "https:\/\/www.profiltech.dk\/wp-json\/wc\/v3\/orders\/40611" } ],
+      "collection": [ { "href": "https:\/\/www.profiltech.dk\/wp-json\/wc\/v3\/orders" } ]
+    }
+  },
+  {
+    "id": 40610,
+    "parent_id": 0,
+    "status": "processing",
+    "currency": "DKK",
+    "version": "5.7.1",
+    "prices_include_tax": true,
+    "date_created": "2021-10-03T08:52:22",
+    "date_modified": "2021-10-04T08:57:26",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "1118.40",
+    "shipping_tax": "279.60",
+    "cart_tax": "921.60",
+    "total": "6006.00",
+    "total_tax": "1201.20",
+    "customer_id": 0,
+    "order_key": "wc_order_1MLVakAiUo0zp",
+    "billing": {
+      "first_name": "Niels",
+      "last_name": "andersen",
+      "company": "",
+      "address_1": "gr\u00f8nnegangen 4",
+      "address_2": "",
+      "city": "Aalborg",
+      "state": "",
+      "postcode": "9000",
+      "country": "DK",
+      "email": "niels@villarosa4.dk",
+      "phone": "40910585"
+    },
+    "shipping": {
+      "first_name": "Niels",
+      "last_name": "andersen",
+      "company": "",
+      "address_1": "Tingvej 59",
+      "address_2": "",
+      "city": "Vestbjerg",
+      "state": "",
+      "postcode": "9380",
+      "country": "DK",
+      "phone": ""
+    },
+    "payment_method": "bambora",
+    "payment_method_title": "Bambora Online Checkout",
+    "transaction_id": "242916466820937728",
+    "customer_ip_address": "85.191.189.136",
+    "customer_user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/94.0.4606.61 Safari\/537.36",
+    "created_via": "checkout",
+    "customer_note": "leverings adressen Tingvej 59, Vestbjerg er vor sommerhus og derfor ubeboet, s\u00e5 meget gerne bare aflevere uden kvittering.\nDet er en skovvej med god lastbil vendeplads p\u00e5 leveringsstedet.\nved chauff\u00f8r sp\u00f8rgsm\u00e5l ring 40910585",
+    "date_completed": null,
+    "date_paid": "2021-10-03T08:53:57",
+    "cart_hash": "8f97491303ad9daa3a185705af7fc41a",
+    "number": "40610",
+    "meta_data": [
+      {
+        "id": 1787327,
+        "key": "_billing_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1787328,
+        "key": "_billing_momsnummer",
+        "value": ""
+      },
+      {
+        "id": 1787329,
+        "key": "_shipping_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1787330,
+        "key": "_shipping_momsnummer",
+        "value": ""
+      },
+      {
+        "id": 1787331,
+        "key": "is_vat_exempt",
+        "value": "no"
+      },
+      {
+        "id": 1787332,
+        "key": "billing_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1787333,
+        "key": "shipping_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1787341,
+        "key": "_new_order_email_sent",
+        "value": "true"
+      },
+      {
+        "id": 1787343,
+        "key": "_pys_purchase_event_fired",
+        "value": "1"
+      },
+      {
+        "id": 1787344,
+        "key": "_ga_tracked",
+        "value": "1"
+      },
+      {
+        "id": 1787822,
+        "key": "_wcpdf_packing_slip_date",
+        "value": "1633325760"
+      },
+      {
+        "id": 1787823,
+        "key": "_wcpdf_packing_slip_date_formatted",
+        "value": "2021-10-04 07:36:00"
+      }
+    ],
+    "line_items": [
+      {
+        "id": 41916,
+        "name": "TP18 St\u00e5ltrapezplader i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1070mm)",
+        "product_id": 2641,
+        "variation_id": 2666,
+        "quantity": 8,
+        "tax_class": "",
+        "subtotal": "3686.40",
+        "subtotal_tax": "921.60",
+        "total": "3686.40",
+        "total_tax": "921.60",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "921.6",
+            "subtotal": "921.6"
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401314,
+            "key": "_wdp_initial_item_subtotal",
+            "value": "3686.4",
+            "display_key": "_wdp_initial_item_subtotal",
+            "display_value": "3686.4"
+          },
+          {
+            "id": 401315,
+            "key": "_wdp_initial_item_subtotal_tax",
+            "value": "921.6",
+            "display_key": "_wdp_initial_item_subtotal_tax",
+            "display_value": "921.6"
+          },
+          {
+            "id": 401316,
+            "key": "pa_vaelg-farve",
+            "value": "sort-9005",
+            "display_key": "farve",
+            "display_value": "Sort RAL: 9005"
+          },
+          {
+            "id": 401317,
+            "key": "med-eller-uden-dripstopdug",
+            "value": "uden dripstopdug",
+            "display_key": "Med eller uden dripstopdug?",
+            "display_value": "uden dripstopdug"
+          },
+          {
+            "id": 401318,
+            "key": "Indtast l\u00e6ngde: (cm)",
+            "value": "600",
+            "display_key": "Indtast l\u00e6ngde: (cm)",
+            "display_value": "600"
+          },
+          {
+            "id": 401319,
+            "key": "_measurement_data",
+            "value": {
+              "length": {
+                "value": "600",
+                "unit": "cm"
+              },
+              "_measurement_needed": 600,
+              "_measurement_needed_unit": "cm"
+            },
+            "display_key": "_measurement_data",
+            "display_value": {
+              "length": {
+                "value": "600",
+                "unit": "cm"
+              },
+              "_measurement_needed": 600,
+              "_measurement_needed_unit": "cm"
+            }
+          },
+          {
+            "id": 401320,
+            "key": "_ni_cost_goods",
+            "value": "0.42",
+            "display_key": "_ni_cost_goods",
+            "display_value": "0.42"
+          },
+          {
+            "id": 401333,
+            "key": "_WCPA_order_meta_data",
+            "value": "",
+            "display_key": "_WCPA_order_meta_data",
+            "display_value": ""
+          }
+        ],
+        "sku": "11060016",
+        "price": 460.80000000000001136868377216160297393798828125,
+        "parent_name": "TP18 St\u00e5ltrapezplader i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1070mm)"
+      }
+    ],
+    "tax_lines": [
+      {
+        "id": 41918,
+        "rate_code": "DK-STANDART MOMS-1",
+        "rate_id": 1,
+        "label": "Standart moms",
+        "compound": true,
+        "tax_total": "921.60",
+        "shipping_tax_total": "279.60",
+        "rate_percent": 25,
+        "meta_data": []
+      }
+    ],
+    "shipping_lines": [
+      {
+        "id": 41917,
+        "method_title": "Levering & emballering ved k\u00f8b af under 6800",
+        "method_id": "table_rate",
+        "instance_id": "11",
+        "total": "1118.40",
+        "total_tax": "279.60",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "279.6",
+            "subtotal": ""
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401326,
+            "key": "Varer",
+            "value": "TP18 St\u00e5ltrapezplader i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1070mm) &times; 8",
+            "display_key": "Varer",
+            "display_value": "TP18 St\u00e5ltrapezplader i \u00f8nsket m\u00e5l (d\u00e6kbredde: 1070mm) &times; 8"
+          }
+        ]
+      }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "date_created_gmt": "2021-10-03T06:52:22",
+    "date_modified_gmt": "2021-10-04T06:57:26",
+    "date_completed_gmt": null,
+    "date_paid_gmt": "2021-10-03T06:53:57",
+    "currency_symbol": "",
+    "_links": {
+      "self": [ { "href": "https:\/\/www.profiltech.dk\/wp-json\/wc\/v3\/orders\/40610" } ],
+      "collection": [ { "href": "https:\/\/www.profiltech.dk\/wp-json\/wc\/v3\/orders" } ]
+    }
+  },
+  {
+    "id": 40608,
+    "parent_id": 0,
+    "status": "completed",
+    "currency": "DKK",
+    "version": "5.7.1",
+    "prices_include_tax": true,
+    "date_created": "2021-10-02T02:14:36",
+    "date_modified": "2021-10-04T10:40:53",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "318.40",
+    "shipping_tax": "79.60",
+    "cart_tax": "226.45",
+    "total": "1530.25",
+    "total_tax": "306.05",
+    "customer_id": 0,
+    "order_key": "wc_order_XCBH4hPtoTrs5",
+    "billing": {
+      "first_name": "Haci",
+      "last_name": "Basoda",
+      "company": "HBBYG",
+      "address_1": "Guldsmedevej 44",
+      "address_2": "",
+      "city": "R\u00f8dovre",
+      "state": "",
+      "postcode": "2610",
+      "country": "DK",
+      "email": "h.bbyg@hotmail.com",
+      "phone": "50133520"
+    },
+    "shipping": {
+      "first_name": "Muhammed",
+      "last_name": "G\u00fczel",
+      "company": "",
+      "address_1": "Okavangovej 48",
+      "address_2": "",
+      "city": "Frederikssund",
+      "state": "",
+      "postcode": "3600",
+      "country": "DK",
+      "phone": ""
+    },
+    "payment_method": "bambora",
+    "payment_method_title": "Bambora Online Checkout",
+    "transaction_id": "242800867768584192",
+    "customer_ip_address": "84.238.111.100",
+    "customer_user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/94.0.4606.61 Safari\/537.36",
+    "created_via": "checkout",
+    "customer_note": "",
+    "date_completed": "2021-10-04T10:40:53",
+    "date_paid": "2021-10-02T02:16:51",
+    "cart_hash": "48f7f1f02ddeac539bda8423cf6349dc",
+    "number": "40608",
+    "meta_data": [
+      {
+        "id": 1787272,
+        "key": "_billing_kundetype",
+        "value": "erhverv"
+      },
+      {
+        "id": 1787273,
+        "key": "_billing_momsnummer",
+        "value": ""
+      },
+      {
+        "id": 1787274,
+        "key": "_shipping_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1787275,
+        "key": "_shipping_momsnummer",
+        "value": ""
+      },
+      {
+        "id": 1787276,
+        "key": "is_vat_exempt",
+        "value": "no"
+      },
+      {
+        "id": 1787277,
+        "key": "billing_kundetype",
+        "value": "erhverv"
+      },
+      {
+        "id": 1787278,
+        "key": "shipping_kundetype",
+        "value": "privat"
+      },
+      {
+        "id": 1787286,
+        "key": "_new_order_email_sent",
+        "value": "true"
+      },
+      {
+        "id": 1787288,
+        "key": "_pys_purchase_event_fired",
+        "value": "1"
+      },
+      {
+        "id": 1787289,
+        "key": "_ga_tracked",
+        "value": "1"
+      },
+      {
+        "id": 1787805,
+        "key": "_wcpdf_packing_slip_date",
+        "value": "1633325534"
+      },
+      {
+        "id": 1787806,
+        "key": "_wcpdf_packing_slip_date_formatted",
+        "value": "2021-10-04 07:32:14"
+      },
+      {
+        "id": 1787978,
+        "key": "_wcpdf_invoice_settings",
+        "value": {
+          "enabled": "1",
+          "attach_to_email_ids": { "customer_completed_order": "1" },
+          "display_shipping_address": "1",
+          "display_email": "1",
+          "display_phone": "1",
+          "display_date": "invoice_date",
+          "number_format": {
+            "prefix": "",
+            "suffix": "",
+            "padding": ""
+          },
+          "my_account_buttons": "available",
+          "paper_size": "a4",
+          "font_subsetting": false,
+          "header_logo": "15859",
+          "header_logo_height": "",
+          "shop_name": { "default": "" },
+          "shop_address": { "default": "" },
+          "footer": { "default": "<b>Profil Tech ApS<\/b> - Fabriksvej 30 - Assens - 9550 Mariager - Denmark - CVR-nr: 38226223\r\nTlf: 98575700 - Mail: Kontakt@profiltech.dk\r\nBank: Sparekassen Danmark - Kontonr.:9337 \/ 2076914640 - IBAN-nr.: DK5793372076914640 - SWIFT-kode: JUTBDK21" },
+          "extra_1": { "default": "" },
+          "extra_2": { "default": "" },
+          "extra_3": { "default": "" }
+        }
+      },
+      {
+        "id": 1787979,
+        "key": "_wcpdf_invoice_date",
+        "value": "1633336854"
+      },
+      {
+        "id": 1787980,
+        "key": "_wcpdf_invoice_date_formatted",
+        "value": "2021-10-04 10:40:54"
+      },
+      {
+        "id": 1787981,
+        "key": "_wcpdf_invoice_number",
+        "value": "5371"
+      },
+      {
+        "id": 1787982,
+        "key": "_wcpdf_invoice_number_data",
+        "value": {
+          "number": 5371,
+          "formatted_number": "5371",
+          "prefix": "",
+          "suffix": "",
+          "document_type": "invoice",
+          "order_id": 40608,
+          "padding": ""
+        }
+      }
+    ],
+    "line_items": [
+      {
+        "id": 41913,
+        "name": "Vindskede",
+        "product_id": 447,
+        "variation_id": 1196,
+        "quantity": 7,
+        "tax_class": "",
+        "subtotal": "905.80",
+        "subtotal_tax": "226.45",
+        "total": "905.80",
+        "total_tax": "226.45",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "226.45",
+            "subtotal": "226.45"
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401287,
+            "key": "_wdp_initial_item_subtotal",
+            "value": "905.8",
+            "display_key": "_wdp_initial_item_subtotal",
+            "display_value": "905.8"
+          },
+          {
+            "id": 401288,
+            "key": "_wdp_initial_item_subtotal_tax",
+            "value": "226.45",
+            "display_key": "_wdp_initial_item_subtotal_tax",
+            "display_value": "226.45"
+          },
+          {
+            "id": 401289,
+            "key": "pa_vaelg-farve",
+            "value": "sort-9005",
+            "display_key": "farve",
+            "display_value": "Sort RAL: 9005"
+          },
+          {
+            "id": 401290,
+            "key": "stoerrelse",
+            "value": "A=20mm\u00a0 B=125mm\u00a0 C=90mm D=20mm",
+            "display_key": "St\u00f8rrelse",
+            "display_value": "A=20mm\u00a0 B=125mm\u00a0 C=90mm D=20mm"
+          },
+          {
+            "id": 401291,
+            "key": "_ni_cost_goods",
+            "value": "36",
+            "display_key": "_ni_cost_goods",
+            "display_value": "36"
+          },
+          {
+            "id": 401304,
+            "key": "_WCPA_order_meta_data",
+            "value": "",
+            "display_key": "_WCPA_order_meta_data",
+            "display_value": ""
+          }
+        ],
+        "sku": "11020041",
+        "price": 129.400000000000005684341886080801486968994140625,
+        "parent_name": "Vindskede"
+      }
+    ],
+    "tax_lines": [
+      {
+        "id": 41915,
+        "rate_code": "DK-STANDART MOMS-1",
+        "rate_id": 1,
+        "label": "Standart moms",
+        "compound": true,
+        "tax_total": "226.45",
+        "shipping_tax_total": "79.60",
+        "rate_percent": 25,
+        "meta_data": []
+      }
+    ],
+    "shipping_lines": [
+      {
+        "id": 41914,
+        "method_title": "Danske fragtm\u00e6nd - Omdeling privat",
+        "method_id": "table_rate",
+        "instance_id": "11",
+        "total": "318.40",
+        "total_tax": "79.60",
+        "taxes": [
+          {
+            "id": 1,
+            "total": "79.6",
+            "subtotal": ""
+          }
+        ],
+        "meta_data": [
+          {
+            "id": 401297,
+            "key": "Varer",
+            "value": "Vindskede &times; 7",
+            "display_key": "Varer",
+            "display_value": "Vindskede &times; 7"
+          }
+        ]
+      }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "date_created_gmt": "2021-10-02T00:14:36",
+    "date_modified_gmt": "2021-10-04T08:40:53",
+    "date_completed_gmt": "2021-10-04T08:40:53",
+    "date_paid_gmt": "2021-10-02T00:16:51",
+    "currency_symbol": "",
+    "_links": {
+      "self": [ { "href": "https:\/\/www.profiltech.dk\/wp-json\/wc\/v3\/orders\/40608" } ],
+      "collection": [ { "href": "https:\/\/www.profiltech.dk\/wp-json\/wc\/v3\/orders" } ]
+    }
+  }
+]
