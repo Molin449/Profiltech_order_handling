@@ -31,10 +31,8 @@ namespace ProfiltechOrderHandling.Service {
             Order order = new Order();
             if (response.IsSuccessStatusCode) {
                 string orderJson = response.Content.ReadAsStringAsync().Result;
-                File.WriteAllText(@"C:\Users\Matti\source\repos\ProfiltechOrderHandling\ProfiltechOrderHandling\Model\WriteText.txt", orderJson);
-                string text = System.IO.File.ReadAllText(@"C:\Users\Matti\source\repos\ProfiltechOrderHandling\ProfiltechOrderHandling\Model\WriteTextNew.json");
-
-                order = JsonConvert.DeserializeObject<Order>(text);
+               
+                order = JsonConvert.DeserializeObject<Order>(orderJson);
             }
 
             return order;
@@ -57,15 +55,14 @@ namespace ProfiltechOrderHandling.Service {
 
 
             // List all Names.
-            HttpResponseMessage response = client.GetAsync($"wp-json/wc/v3/orders/?{SecretKey}&{ConsumerKey}&per_page=1").Result;  // Blocking call!
+            HttpResponseMessage response = client.GetAsync($"wp-json/wc/v3/orders/?{SecretKey}&{ConsumerKey}").Result;  // Blocking call!
 
             List<Order> orders = new List<Order>();
             if (response.IsSuccessStatusCode) {
                 string orderJson = response.Content.ReadAsStringAsync().Result;
 
-                string text = System.IO.File.ReadAllText(@"C:\Users\Matti\source\repos\ProfiltechOrderHandling\ProfiltechOrderHandling\Model\json1.json");
 
-                orders = JsonConvert.DeserializeObject<List<Order>>(text);
+                orders = JsonConvert.DeserializeObject<List<Order>>(orderJson);
             }
 
             return orders;

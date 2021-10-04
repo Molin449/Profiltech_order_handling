@@ -10,6 +10,6 @@ namespace ProfiltechOrderHandling.Model {
         public string key { get; set; }
         //public string value { get; set; }
         public string display_key { get; set; }
-        public string display_value { get; set; }
+        //public string display_value { get; set; }
     }
 }

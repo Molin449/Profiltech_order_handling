@@ -33,7 +33,7 @@ namespace ProfiltechOrderHandling.Model {
         public string created_via { get; set; }
         public string customer_note { get; set; }
         public object date_completed { get; set; }
-        public DateTime date_paid { get; set; }
+        //public DateTime date_paid { get; set; }
         public string cart_hash { get; set; }
         public string number { get; set; }
         public List<MetaData> meta_data { get; set; }
@@ -43,10 +43,10 @@ namespace ProfiltechOrderHandling.Model {
         public List<object> fee_lines { get; set; }
         public List<object> coupon_lines { get; set; }
         public List<object> refunds { get; set; }
-        public DateTime date_created_gmt { get; set; }
-        public DateTime date_modified_gmt { get; set; }
-        public object date_completed_gmt { get; set; }
-        public DateTime date_paid_gmt { get; set; }
+        //public DateTime date_created_gmt { get; set; }
+        //public DateTime date_modified_gmt { get; set; }
+        //public object date_completed_gmt { get; set; }
+        //public DateTime date_paid_gmt { get; set; }
         public string currency_symbol { get; set; }
         public Links _links { get; set; }
     }
