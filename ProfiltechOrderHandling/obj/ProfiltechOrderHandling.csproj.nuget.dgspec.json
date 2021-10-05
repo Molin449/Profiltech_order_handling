@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matti\\Documents\\profiltech-order-handling\\Profiltech_order_handling\\ProfiltechOrderHandling\\ProfiltechOrderHandling.csproj": {}
+    "G:\\Mit drev\\devlopment\\ProfiltechOrderHandling\\Profiltech_order_handling\\ProfiltechOrderHandling\\ProfiltechOrderHandling.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matti\\Documents\\profiltech-order-handling\\Profiltech_order_handling\\ProfiltechOrderHandling\\ProfiltechOrderHandling.csproj": {
+    "G:\\Mit drev\\devlopment\\ProfiltechOrderHandling\\Profiltech_order_handling\\ProfiltechOrderHandling\\ProfiltechOrderHandling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matti\\Documents\\profiltech-order-handling\\Profiltech_order_handling\\ProfiltechOrderHandling\\ProfiltechOrderHandling.csproj",
+        "projectUniqueName": "G:\\Mit drev\\devlopment\\ProfiltechOrderHandling\\Profiltech_order_handling\\ProfiltechOrderHandling\\ProfiltechOrderHandling.csproj",
         "projectName": "ProfiltechOrderHandling",
-        "projectPath": "C:\\Users\\Matti\\Documents\\profiltech-order-handling\\Profiltech_order_handling\\ProfiltechOrderHandling\\ProfiltechOrderHandling.csproj",
+        "projectPath": "G:\\Mit drev\\devlopment\\ProfiltechOrderHandling\\Profiltech_order_handling\\ProfiltechOrderHandling\\ProfiltechOrderHandling.csproj",
         "packagesPath": "C:\\Users\\Matti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matti\\Documents\\profiltech-order-handling\\Profiltech_order_handling\\ProfiltechOrderHandling\\obj\\",
+        "outputPath": "G:\\Mit drev\\devlopment\\ProfiltechOrderHandling\\Profiltech_order_handling\\ProfiltechOrderHandling\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

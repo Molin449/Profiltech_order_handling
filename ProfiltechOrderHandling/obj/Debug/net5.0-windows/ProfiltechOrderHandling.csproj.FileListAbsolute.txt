@@ -46,3 +46,29 @@ C:\Users\Matti\Documents\profiltech-order-handling\Profiltech_order_handling\Pro
 C:\Users\Matti\Documents\profiltech-order-handling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\ProfiltechOrderHandling.genruntimeconfig.cache
 C:\Users\Matti\Documents\profiltech-order-handling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\GUI\MainWindow.g.cs
 C:\Users\Matti\Documents\profiltech-order-handling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\GUI\MainWindow.baml
+G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\bin\Debug\net5.0-windows\ProfiltechOrderHandling.exe
+G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\bin\Debug\net5.0-windows\ProfiltechOrderHandling.deps.json
+G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\bin\Debug\net5.0-windows\ProfiltechOrderHandling.runtimeconfig.json
+G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\bin\Debug\net5.0-windows\ProfiltechOrderHandling.runtimeconfig.dev.json
+G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\bin\Debug\net5.0-windows\ProfiltechOrderHandling.dll
+G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\bin\Debug\net5.0-windows\ref\ProfiltechOrderHandling.dll
+G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\bin\Debug\net5.0-windows\ProfiltechOrderHandling.pdb
+G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\ProfiltechOrderHandling.csproj.AssemblyReference.cache
+G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\GUI\MainWindow.g.cs
+G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\App.g.cs
+G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\ProfiltechOrderHandling_MarkupCompile.cache
+G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\ProfiltechOrderHandling_MarkupCompile.lref
+G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\GUI\MainWindow.baml
+G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\ProfiltechOrderHandling.g.resources
+G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\ProfiltechOrderHandling.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\ProfiltechOrderHandling.AssemblyInfoInputs.cache
+G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\ProfiltechOrderHandling.AssemblyInfo.cs
+G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\ProfiltechOrderHandling.csproj.CoreCompileInputs.cache
+G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\ProfiltechOrderHandling.csproj.CopyComplete
+G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\ProfiltechOrderHandling.dll
+G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\ref\ProfiltechOrderHandling.dll
+G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\ProfiltechOrderHandling.pdb
+G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\ProfiltechOrderHandling.genruntimeconfig.cache
+G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\GUI\TestPage.g.cs
+G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\GUI\TestPage.baml

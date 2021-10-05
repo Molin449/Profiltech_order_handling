@@ -20,25 +20,42 @@
             <RowDefinition Height="75"/>
             <RowDefinition></RowDefinition>
         </Grid.RowDefinitions>
-        
-        
-        <Image Margin="20" Source="pack://application:,,,/Resources/Img/logo.png" Grid.Column="0" Grid.Row="0"></Image>
-        
-        <StackPanel Grid.Column="1" Grid.Row="0" Orientation="Horizontal">
-            <TextBox Height="20" Width="200" Text="hej"></TextBox>
+
+        <StackPanel Background="#354257">
+            <Label Foreground="white" Margin="20" FontSize="20" FontWeight="Black">PROFILTECH</Label>
         </StackPanel>
-        
-        
-        <StackPanel Margin="20" Grid.Column="0" Grid.Row="1">
-            <Button>Hej</Button>
-            <Button>Hej</Button>
-            <Button>Hej</Button>
-            <Button>Hej</Button>
-            <Button>Hej</Button>
-        </StackPanel>
-        
 
 
+        <Border BorderThickness="0 0 0 1" BorderBrush="#e5e5e5" Grid.Column="1" Grid.Row="0">
+            <Grid >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="100" />
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Margin="20" Grid.Column="0" Orientation="Horizontal">
+                    <TextBox Padding="7" Width="200" Text="hej"></TextBox>
+                    <Button Background="#2e61b3" Foreground="White" Width="100" Content="Søg"/>
+                </StackPanel>
+                <StackPanel Margin="20" HorizontalAlignment="Right" Orientation="Horizontal" Grid.Column="1">
+                    <Button Width="30">-</Button>
+                    <Button Width="30">X</Button>
+                </StackPanel>
+            </Grid>
+        </Border>
+
+
+        <StackPanel Background="#354257" Grid.Column="0" Grid.Row="1">
+            <Button HorizontalContentAlignment="left" Padding="20 0" BorderThickness="0" Height="50" Foreground="white" Background="Transparent">Ordrer</Button>
+            <Button HorizontalContentAlignment="left" Padding="20 0" BorderThickness="0" Height="50" Foreground="white" Background="Transparent">Tilbuds foresp.</Button>
+            <Button HorizontalContentAlignment="left" Padding="20 0" BorderThickness="0" Height="50" Foreground="white" Background="Transparent">Inddæknings beregner</Button>
+            <Button HorizontalContentAlignment="left" Padding="20 0" BorderThickness="0" Height="50" Foreground="white" Background="Transparent">Hej</Button>
+            <Button HorizontalContentAlignment="left" Padding="20 0" BorderThickness="0" Height="50" Foreground="white" Background="Transparent">Hej</Button>
+        </StackPanel>
+
+        <ContentControl x:Name="contentView" Grid.Column="1" Grid.Row="1" Margin="20">
+            
+        </ContentControl>
     </Grid>
 
 

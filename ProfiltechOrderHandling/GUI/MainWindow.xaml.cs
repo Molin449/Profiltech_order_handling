@@ -1,4 +1,5 @@
 ﻿
+using ProfiltechOrderHandling.GUI;
 using ProfiltechOrderHandling.Model;
 using ProfiltechOrderHandling.Service;
 using System;
@@ -25,6 +26,9 @@ namespace ProfiltechOrderHandling {
             InitializeComponent();
             OrdersService os = new OrdersService();
             List<Order> orders = os.GetOrders("40608");
+
+            //TestPage tp = new TestPage();
+            //contentView.Content = tp;
 
             //dataGrid.DataContext = orders;
             //dataGrid.CanUserResizeRows = false;
