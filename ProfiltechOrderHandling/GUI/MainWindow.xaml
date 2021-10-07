@@ -8,8 +8,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="720" Width="1080"
         WindowStartupLocation="CenterScreen"
-        WindowState="Normal"
-        WindowStyle="None">
+        WindowState="Normal" Visibility="Visible" WindowStyle="none"
+        >
+
 
     <Grid>
         <Grid.ColumnDefinitions>
@@ -53,9 +54,11 @@
             <Button HorizontalContentAlignment="left" Padding="20 0" BorderThickness="0" Height="50" Foreground="white" Background="Transparent">Hej</Button>
         </StackPanel>
 
-        <ContentControl x:Name="contentView" Grid.Column="1" Grid.Row="1" Margin="20">
-            
-        </ContentControl>
+        <StackPanel Margin="20" Background="blue" Grid.Column="1" Grid.Row="1">
+            <Frame x:Name="contentView" />
+        </StackPanel>
+        
+
     </Grid>
 
 

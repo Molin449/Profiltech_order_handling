@@ -16,7 +16,7 @@ namespace ProfiltechOrderHandling.GUI {
     /// <summary>
     /// Interaction logic for TestPage.xaml
     /// </summary>
-    public partial class TestPage : Window {
+    public partial class TestPage : Page {
         public TestPage() {
             InitializeComponent();
         }
