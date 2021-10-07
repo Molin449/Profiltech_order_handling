@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\
+C:\Users\Matti\Documents\profiltech-order-handling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\
 ProfiltechOrderHandling
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\App.xaml
-2-644832334
+C:\Users\Matti\Documents\profiltech-order-handling\Profiltech_order_handling\ProfiltechOrderHandling\App.xaml
+2-42111453
 
-18-458637617
+181766891638
 194-989264606
-GUI\MainWindow.xaml;GUI\TestPage.xaml;
+GUI\MainWindow.xaml;GUI\OrdersListPage.xaml;
 
 True
 

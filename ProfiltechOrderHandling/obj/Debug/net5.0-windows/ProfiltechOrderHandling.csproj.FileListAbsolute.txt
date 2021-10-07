@@ -72,3 +72,5 @@ G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\Profilt
 G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\ProfiltechOrderHandling.genruntimeconfig.cache
 G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\GUI\TestPage.g.cs
 G:\Mit drev\devlopment\ProfiltechOrderHandling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\GUI\TestPage.baml
+C:\Users\Matti\Documents\profiltech-order-handling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\GUI\OrdersListPage.g.cs
+C:\Users\Matti\Documents\profiltech-order-handling\Profiltech_order_handling\ProfiltechOrderHandling\obj\Debug\net5.0-windows\GUI\OrdersListPage.baml

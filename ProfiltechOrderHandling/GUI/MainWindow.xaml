@@ -9,12 +9,13 @@
         Title="MainWindow" Height="720" Width="1080"
         WindowStartupLocation="CenterScreen"
         WindowState="Normal" Visibility="Visible" WindowStyle="none"
+        ResizeMode="CanResizeWithGrip" AllowsTransparency="True"
         >
 
 
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="250"/>
             <ColumnDefinition />
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
@@ -23,7 +24,7 @@
         </Grid.RowDefinitions>
 
         <StackPanel Background="#354257">
-            <Label Foreground="white" Margin="20" FontSize="20" FontWeight="Black">PROFILTECH</Label>
+            <Image Margin="20" Source="/Resources/img/logo.png"></Image>
         </StackPanel>
 
 
@@ -31,45 +32,80 @@
             <Grid >
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition/>
-                    <ColumnDefinition Width="100" />
+                    <ColumnDefinition />
                 </Grid.ColumnDefinitions>
 
                 <StackPanel Margin="20" Grid.Column="0" Orientation="Horizontal">
-                    <TextBox Padding="7" Width="200" Text="hej"></TextBox>
+                    <TextBox Padding="7" Width="200" Text="Søg..."></TextBox>
                     <Button Background="#2e61b3" Foreground="White" Width="100" Content="Søg"/>
                 </StackPanel>
                 <StackPanel Margin="20" HorizontalAlignment="Right" Orientation="Horizontal" Grid.Column="1">
-                    <Button Width="30">-</Button>
-                    <Button Width="30">X</Button>
+
+                    <StackPanel.Resources>
+                        <Style TargetType="{x:Type Image}">
+                            <Setter Property="Width" Value="15"/>
+                            <Setter Property="Height" Value="15"/>
+                            <Setter Property="Margin" Value="10 0"/>
+                        </Style>
+
+
+
+                    </StackPanel.Resources>
+                    <!--/ProfiltechOrderHandling;component-->
+
+                    <Border Margin="5" Background="Transparent" Cursor="Hand">
+                        <Image Source="/Resources/img/minimize.png"/>
+                    </Border>
+
+                    <Border Margin="5" Background="Transparent" Cursor="Hand">
+                        <Image Source="/Resources/img/maximize.png"/>
+                    </Border>
+
+                    <Border Margin="5" Background="Transparent" Cursor="Hand">
+                        <Image Source="/Resources/img/close.png"/>
+                    </Border>
+                    
                 </StackPanel>
             </Grid>
         </Border>
 
 
-        <StackPanel Background="#354257" Grid.Column="0" Grid.Row="1">
-            <Button HorizontalContentAlignment="left" Padding="20 0" BorderThickness="0" Height="50" Foreground="white" Background="Transparent">Ordrer</Button>
-            <Button HorizontalContentAlignment="left" Padding="20 0" BorderThickness="0" Height="50" Foreground="white" Background="Transparent">Tilbuds foresp.</Button>
-            <Button HorizontalContentAlignment="left" Padding="20 0" BorderThickness="0" Height="50" Foreground="white" Background="Transparent">Inddæknings beregner</Button>
-            <Button HorizontalContentAlignment="left" Padding="20 0" BorderThickness="0" Height="50" Foreground="white" Background="Transparent">Hej</Button>
-            <Button HorizontalContentAlignment="left" Padding="20 0" BorderThickness="0" Height="50" Foreground="white" Background="Transparent">Hej</Button>
+        <StackPanel x:Name="Navigation" Background="#354257" Grid.Column="0" Grid.Row="1">
+            <StackPanel.Resources>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Setter Property="BorderThickness" Value="0"/>
+                    <Setter Property="Height" Value="60"/>
+                    <Setter Property="Foreground" Value="White"/>
+
+                    <!--Creating template for buttons, so we can chage hover style-->
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="{x:Type Button}">
+                                <Border Padding="20 0" Background="{TemplateBinding Background}" >
+                                    <ContentPresenter HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Transparent"/>
+                            <Setter Property="Cursor" Value="Hand"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </StackPanel.Resources>
+
+            <Button x:Name="Orders" Background="#2c3340" Click="Navigation_Click">Ordrer</Button>
+            <Button x:Name="Submissions" Click="Navigation_Click">Tilbuds foresp.</Button>
+            <Button x:Name="Flashings" Click="Navigation_Click">Inddæknings beregner</Button>
         </StackPanel>
 
-        <StackPanel Margin="20" Background="blue" Grid.Column="1" Grid.Row="1">
-            <Frame x:Name="contentView" />
-        </StackPanel>
-        
+        <Grid VerticalAlignment="Stretch" Margin="20" Grid.Column="1" Grid.Row="1">
+            <Frame NavigationUIVisibility="Hidden" x:Name="contentView" />
+        </Grid>
+
 
     </Grid>
-
-
-    <!--<Grid Margin="20">
-        <DataGrid x:Name="dataGrid" 
-          ItemsSource="{Binding}" 
-          IsReadOnly="True" AutoGenerateColumns="False"
-                  MouseDoubleClick="dataGrid_MouseDoubleClick">
-            <DataGrid.Columns>
-                <DataGridTextColumn Header="Ordre ID" Binding="{Binding id}" Width="1*"/>
-                <DataGridTextColumn Header="Status" Binding="{Binding status}" Width="1*"/>
-            </DataGrid.Columns>
-        </DataGrid>-->
 </Window>

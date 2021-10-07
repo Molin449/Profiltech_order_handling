@@ -24,34 +24,64 @@ namespace ProfiltechOrderHandling {
     public partial class MainWindow : Window {
         public MainWindow() {
             InitializeComponent();
-            OrdersService os = new OrdersService();
-            List<Order> orders = os.GetOrders("40608");
 
-            TestPage tp = new TestPage();
+            OrdersListPage ordersListPage = new OrdersListPage();
            
-            contentView.Content = tp;
+            contentView.Content = ordersListPage;
 
-            
-            
-            
-            
-            
-            //dataGrid.DataContext = orders;
-            //dataGrid.CanUserResizeRows = false;
+
+
+
+
+
         }
-
-        //private void dataGrid_MouseDoubleClick(object sender, MouseButtonEventArgs e) {
-        //    Order customer = (Order) dataGrid.SelectedItem;
-        //    ItemWindow window = new ItemWindow();
-        //    window.Show();
-        //    this.Close();
-        //}
 
         protected override void OnMouseLeftButtonDown(MouseButtonEventArgs e) {
             base.OnMouseLeftButtonDown(e);
 
             // Begin dragging the window
             this.DragMove();
+        }
+
+
+
+
+
+        private void Navigation_Click(object sender, RoutedEventArgs e) {
+            
+            //Styles navigation button to be active color
+            var buttons = Navigation.Children;
+            Color activeNavBtnColor = (Color)ColorConverter.ConvertFromString("#2c3340");
+
+            foreach (var currItem in buttons) {
+                Button currButton = (Button)currItem;
+                currButton.Background = Brushes.Transparent;
+            }
+         
+            Button navButton = e.Source as Button;
+            navButton.Background = new SolidColorBrush(activeNavBtnColor);
+
+            //Change the page
+            string pageName = navButton.Name;
+            
+            contentView.Content = FindTheCurrentPage(pageName);
+
+            var list = contentView;
+        }
+
+
+
+        private Object FindTheCurrentPage(string pageName) {
+            Object page = null;
+            switch (pageName) {
+                case "Orders":
+                    page = new OrdersListPage();
+                    break;
+                default:
+                    break;
+            }
+
+            return page;
         }
     }
 }

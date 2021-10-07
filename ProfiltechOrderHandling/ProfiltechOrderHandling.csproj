@@ -7,7 +7,24 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Resources\Img\close.png" />
+    <None Remove="Resources\Img\logo.png" />
+    <None Remove="Resources\Img\maximize.png" />
+    <None Remove="Resources\Img\minimize.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\Img\logo.png" />
+    <Resource Include="Resources\Img\maximize.png" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\Img\close.png" />
+    <Resource Include="Resources\Img\minimize.png" />
   </ItemGroup>
 
 </Project>
